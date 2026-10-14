@@ -1,0 +1,46 @@
+- generic [ref=f142e3]:
+  - generic [ref=f142e4]:
+    - banner [ref=f142e6]:
+      - generic [ref=f142e7]:
+        - button "Retour à l'accueil Aimoove" [ref=f142e9] [cursor=pointer]:
+          - img "Aimoove" [ref=f142e11]
+        - navigation [ref=f142e12]:
+          - button "Accueil" [ref=f142e13] [cursor=pointer]
+          - button "Tarifs" [ref=f142e14] [cursor=pointer]
+          - button "Blog" [ref=f142e15] [cursor=pointer]
+          - button "À propos" [ref=f142e16] [cursor=pointer]
+      - generic [ref=f142e17]:
+        - button "Vous êtes un professionnel ?" [ref=f142e18] [cursor=pointer]
+        - button "Se connecter" [ref=f142e20] [cursor=pointer]
+    - main [ref=f142e24]:
+      - generic [ref=f142e26]:
+        - generic [ref=f142e29]:
+          - button "Retour" [ref=f142e30] [cursor=pointer]
+          - generic [ref=f142e33]: Sélectionner un véhicule
+        - generic [ref=f142e35]:
+          - generic [ref=f142e36]:
+            - heading "Saisie Rapide" [level=2] [ref=f142e38]
+            - generic [ref=f142e42]:
+              - generic [ref=f142e46]:
+                - generic [ref=f142e47]:
+                  - 'button "Pays d''immatriculation : France" [ref=f142e48] [cursor=pointer]':
+                    - generic [ref=f142e49]: FR
+                  - generic:
+                    - generic: AA-123-BB
+                    - generic: ou VIN
+                  - textbox [ref=f142e53]
+                  - generic [ref=f142e54]: "75"
+                - button "Scanner une photo" [ref=f142e57] [cursor=pointer]
+              - button "Rechercher le véhicule" [ref=f142e61] [cursor=pointer]
+          - generic [ref=f142e62]: OU
+          - generic [ref=f142e65]:
+            - heading "Saisie Manuelle" [level=2] [ref=f142e67]
+            - generic [ref=f142e71]:
+              - generic [ref=f142e72]:
+                - generic [ref=f142e73]:
+                  - heading "Choisissez la marque de votre véhicule" [level=3] [ref=f142e74]
+                  - button "Réinitialiser le formulaire" [ref=f142e75] [cursor=pointer]:
+                    - generic [ref=f142e78]: Réinitialiser
+                - button "Sélectionner une marque" [ref=f142e79] [cursor=pointer]
+              - button "Étape suivante" [disabled] [ref=f142e93]: Suivant
+  - button "Gérer mes préférences cookies" [ref=f142e95] [cursor=pointer]

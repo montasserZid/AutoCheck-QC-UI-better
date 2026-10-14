@@ -1,0 +1,119 @@
+[     500ms] [ERROR] Access to fetch at 'https://ipapi.co/json/' from origin 'https://aimoove.fr' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://aimoove.fr/:0
+[     500ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://ipapi.co/json/:0
+[     500ms] [WARNING] [geoLocationService] Fournisseur indisponible (https://ipapi.co/json/) TypeError: Failed to fetch
+    at xk (https://aimoove.fr/assets/index-D3ZS7cKw.js:68:20949)
+    at https://aimoove.fr/assets/index-D3ZS7cKw.js:68:21128
+    at Go (https://aimoove.fr/assets/index-D3ZS7cKw.js:68:21243)
+    at https://aimoove.fr/assets/index-D3ZS7cKw.js:273:97908
+    at es (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:92963)
+    at Gc (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:109168)
+    at Gc (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:109416)
+    at Gc (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:109154)
+    at dm (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:108862)
+    at mt (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:108106) @ https://aimoove.fr/assets/index-D3ZS7cKw.js:67
+[     627ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://aimoove.fr/:0
+[    8643ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://aimoove.fr/:0
+[    8770ms] [ERROR] Access to fetch at 'https://ipapi.co/json/' from origin 'https://aimoove.fr' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://aimoove.fr/:0
+[    8770ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://ipapi.co/json/:0
+[    8770ms] [WARNING] [geoLocationService] Fournisseur indisponible (https://ipapi.co/json/) TypeError: Failed to fetch
+    at xk (https://aimoove.fr/assets/index-D3ZS7cKw.js:68:20949)
+    at https://aimoove.fr/assets/index-D3ZS7cKw.js:68:21128
+    at Go (https://aimoove.fr/assets/index-D3ZS7cKw.js:68:21243)
+    at https://aimoove.fr/assets/index-D3ZS7cKw.js:273:97908
+    at es (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:92963)
+    at Gc (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:109168)
+    at Gc (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:109416)
+    at Gc (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:109154)
+    at dm (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:108862)
+    at mt (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:108106) @ https://eu-assets.i.posthog.com/static/1.438.2/posthog-recorder.js:0
+[   12507ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://aimoove.fr/:0
+[   12551ms] [ERROR] Access to fetch at 'https://ipapi.co/json/' from origin 'https://aimoove.fr' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://aimoove.fr/:0
+[   12551ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://ipapi.co/json/:0
+[   12551ms] [WARNING] [geoLocationService] Fournisseur indisponible (https://ipapi.co/json/) TypeError: Failed to fetch
+    at xk (https://aimoove.fr/assets/index-D3ZS7cKw.js:68:20949)
+    at https://aimoove.fr/assets/index-D3ZS7cKw.js:68:21128
+    at Go (https://aimoove.fr/assets/index-D3ZS7cKw.js:68:21243)
+    at https://aimoove.fr/assets/index-D3ZS7cKw.js:273:97908
+    at es (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:92963)
+    at Gc (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:109168)
+    at Gc (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:109416)
+    at Gc (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:109154)
+    at dm (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:108862)
+    at mt (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:108106) @ https://aimoove.fr/assets/index-D3ZS7cKw.js:67
+[   17994ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_RESPONSE.NotSameOrigin @ https://www.economie.gouv.fr/files/styles/image_contenu_article_espace/public/files/directions_services/dgccrf/imgs/fiches_pratiques/2020/controle-technique.jpg?itok=HTqDyIEU:0
+[   18189ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://aimoove.fr/blog:0
+[   19260ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://aimoove.fr/blog/france-2026-top-des-voitures-d-occasion-les-plus-fiables:0
+[   20374ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://aimoove.fr/blog/zfe-2026-quelle-voiture-d-occasion-acheter-sans-risque:0
+[   21326ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://aimoove.fr/blog/carburant-2026-quelle-motorisation-d-occasion-choisir:0
+[   22321ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://aimoove.fr/blog/pannes-couteuses-les-10-occasions-les-plus-vendues-sous-la-loupe:0
+[   23390ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://aimoove.fr/blog/reparation-durable-les-acteurs-qui-allongent-la-duree-de-vie-de-votre-vehicule:0
+[   24359ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://aimoove.fr/blog/pourquoi-le-soh-de-la-batterie-est-le-nouveau-controle-technique:0
+[   25332ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://aimoove.fr/blog/controle-technique-2026-ce-qui-change-ce-qu-il-ne-dit-toujours-pas:0
+[   26324ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://aimoove.fr/blog/assurance-auto-2026-comment-l-ia-predictive-transforme-la-gestion-de-sinistralite-mecanique:0
+[   27299ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://aimoove.fr/blog/ce-que-l-ufc-que-choisir-revele-sur-les-rapports-d-historique:0
+[   29514ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://aimoove.fr/blog/aimoove-cree-le-nutri-score-de-la-voiture-d-occasion:0
+[   33586ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://aimoove.fr/blog:0
+[   33859ms] [ERROR] Access to fetch at 'https://ipapi.co/json/' from origin 'https://aimoove.fr' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://aimoove.fr/:0
+[   33859ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://ipapi.co/json/:0
+[   33859ms] [WARNING] [geoLocationService] Fournisseur indisponible (https://ipapi.co/json/) TypeError: Failed to fetch
+    at xk (https://aimoove.fr/assets/index-D3ZS7cKw.js:68:20949)
+    at https://aimoove.fr/assets/index-D3ZS7cKw.js:68:21128
+    at Go (https://aimoove.fr/assets/index-D3ZS7cKw.js:68:21243)
+    at https://aimoove.fr/assets/index-D3ZS7cKw.js:273:97908
+    at es (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:92963)
+    at dm (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:108222)
+    at mt (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:108106)
+    at dm (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:108988)
+    at mt (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:108106)
+    at dm (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:108202) @ https://eu-assets.i.posthog.com/static/1.438.2/posthog-recorder.js:0
+[   34191ms] [ERROR] Failed to load resource: the server responded with a status of 406 () @ https://cnpdezxifvqcqfuruywu.supabase.co/rest/v1/blog_posts?select=*%2Ctags%3Ablog_post_tags%28blog_tags%28*%29%29&slug=eq.%2F:0
+[   34201ms] [ERROR] {code: PGRST116, details: The result contains 0 rows, hint: null, message: Cannot coerce the result to a single JSON object} @ https://eu-assets.i.posthog.com/static/1.438.2/posthog-recorder.js:0
+[   38699ms] [ERROR] Access to fetch at 'https://ipapi.co/json/' from origin 'https://aimoove.fr' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://aimoove.fr/pro:0
+[   38699ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://ipapi.co/json/:0
+[   38699ms] [WARNING] [geoLocationService] Fournisseur indisponible (https://ipapi.co/json/) TypeError: Failed to fetch
+    at xk (https://aimoove.fr/assets/index-D3ZS7cKw.js:68:20949)
+    at https://aimoove.fr/assets/index-D3ZS7cKw.js:68:21128
+    at Go (https://aimoove.fr/assets/index-D3ZS7cKw.js:68:21243)
+    at https://aimoove.fr/assets/index-D3ZS7cKw.js:420:16195
+    at es (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:92963)
+    at Gc (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:109168)
+    at Gc (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:109416)
+    at Gc (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:109154)
+    at dm (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:108862)
+    at mt (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:108106) @ https://aimoove.fr/assets/index-D3ZS7cKw.js:67
+[   38832ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://aimoove.fr/src/components/ressources/landing/pro/background_pro.png:0
+[   38879ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://aimoove.fr/pro:0
+[   40126ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://aimoove.fr/src/components/ressources/landing/pro/background_pro.png:0
+[   40133ms] [ERROR] Access to fetch at 'https://ipapi.co/json/' from origin 'https://aimoove.fr' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://aimoove.fr/pro:0
+[   40133ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://ipapi.co/json/:0
+[   40133ms] [WARNING] [geoLocationService] Fournisseur indisponible (https://ipapi.co/json/) TypeError: Failed to fetch
+    at xk (https://aimoove.fr/assets/index-D3ZS7cKw.js:68:20949)
+    at https://aimoove.fr/assets/index-D3ZS7cKw.js:68:21128
+    at Go (https://aimoove.fr/assets/index-D3ZS7cKw.js:68:21243)
+    at https://aimoove.fr/assets/index-D3ZS7cKw.js:420:16195
+    at es (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:92963)
+    at Gc (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:109168)
+    at Gc (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:109416)
+    at Gc (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:109154)
+    at dm (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:108862)
+    at mt (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:108106) @ https://eu-assets.i.posthog.com/static/1.438.2/posthog-recorder.js:0
+[   40149ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://aimoove.fr/pro:0
+[   41415ms] [WARNING] The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width. @ https://eu-assets.i.posthog.com/static/1.438.2/posthog-recorder.js:0
+[   42337ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://aimoove.fr/src/components/ressources/landing/pro/background_pro.png:0
+[   42348ms] [ERROR] Access to fetch at 'https://ipapi.co/json/' from origin 'https://aimoove.fr' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://aimoove.fr/pro:0
+[   42348ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://ipapi.co/json/:0
+[   42348ms] [WARNING] [geoLocationService] Fournisseur indisponible (https://ipapi.co/json/) TypeError: Failed to fetch
+    at xk (https://aimoove.fr/assets/index-D3ZS7cKw.js:68:20949)
+    at https://aimoove.fr/assets/index-D3ZS7cKw.js:68:21128
+    at Go (https://aimoove.fr/assets/index-D3ZS7cKw.js:68:21243)
+    at https://aimoove.fr/assets/index-D3ZS7cKw.js:420:16195
+    at es (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:92963)
+    at Gc (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:109168)
+    at Gc (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:109416)
+    at Gc (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:109154)
+    at dm (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:108862)
+    at mt (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:108106) @ https://eu-assets.i.posthog.com/static/1.438.2/posthog-recorder.js:0
+[   42372ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://aimoove.fr/pro:0

@@ -1,0 +1,29 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "module": "CommonJS",
+    "moduleResolution": "Node",
+    "outDir": "./output/tests",
+    "rootDir": ".",
+    "noEmit": false,
+    "incremental": false,
+    "plugins": []
+  },
+  "include": [
+    "tests/domain.test.ts",
+    "tests/workerBoundary.test.ts",
+    "tests/facebookHttpMetadata.test.ts",
+    "tests/facebookLoginModal.test.ts",
+    "tests/facebookStructuredDiagnostic.test.ts",
+    "tests/brightDataFacebook.test.ts",
+    "tests/facebookBrowserPrimary.test.ts",
+    "tests/knowledgeImporter.test.ts",
+    "tests/freeQuickCheck.test.ts",
+    "tests/listingDescriptionFlow.test.ts",
+    "tests/vehicle-image-resolver.test.ts",
+    "scripts/knowledge/importer.ts",
+    "deploy/cloudways-worker/scripts/facebookStructured.ts",
+    "deploy/cloudways-worker/scripts/facebook-structured-diagnostic.ts"
+  ],
+  "exclude": ["node_modules", ".next", "output", "deploy/cloudways-worker/node_modules"]
+}

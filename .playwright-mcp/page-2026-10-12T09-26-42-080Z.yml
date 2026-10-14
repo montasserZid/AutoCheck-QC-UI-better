@@ -1,0 +1,559 @@
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - banner [ref=e6]:
+      - button "Retour à l'accueil Aimoove" [ref=e9] [cursor=pointer]:
+        - img "Aimoove" [ref=e11]
+      - generic [ref=e12]:
+        - button "Vous êtes un professionnel ?" [ref=e13] [cursor=pointer]
+        - button "Ouvrir le menu" [ref=e15] [cursor=pointer]
+    - main [ref=e18]:
+      - generic [ref=e21]:
+        - generic:
+          - img "Soutenu par La French Tech"
+        - generic [ref=e23]:
+          - generic [ref=e24]:
+            - generic [ref=e27]:
+              - heading "Anticipez les pannes coûteuses avant d'acheter votre prochaine voiture." [level=1] [ref=e28]:
+                - generic [ref=e29]: Anticipez les pannes coûteuses
+                - generic [ref=e30]: avant d'acheter votre prochaine voiture.
+              - paragraph [ref=e31]: Détectez les pannes cachées, validez le juste prix et repérez les points de vigilance en moins de 3 minutes.
+              - generic [ref=e33]:
+                - text: Détectez les pannes cachées
+                - generic [ref=e34]: en moins de 3 minutes
+                - text: .
+            - generic [ref=e35]:
+              - generic [ref=e37]:
+                - generic [ref=e38]:
+                  - generic [ref=e39]:
+                    - 'button "Pays d''immatriculation : France" [ref=e40] [cursor=pointer]':
+                      - generic [ref=e41]: FR
+                    - generic [ref=e45]:
+                      - generic:
+                        - generic: AA-123-BB
+                        - generic: ou
+                        - generic: VIN
+                      - textbox [ref=e46]
+                    - button "Scanner la plaque d'immatriculation par photo" [ref=e47] [cursor=pointer]
+                  - button "VÉRIFIER CE VÉHICULE" [ref=e50] [cursor=pointer]
+                - button "Pas d'immatriculation ? Identifier le véhicule autrement" [ref=e52] [cursor=pointer]:
+                  - generic [ref=e53]: Pas d'immatriculation ?
+                  - generic [ref=e54]: Identifier le véhicule autrement
+              - button [ref=e57] [cursor=pointer]:
+                - generic [ref=e61]: Exemple derapport complet
+              - generic [ref=e65]:
+                - paragraph [ref=e66]: "CE QUE NOS CLIENTS DISENT DE NOUS:"
+                - generic [ref=e67]:
+                  - button "Ouvrir les avis Trustpilot, note 4,6 sur 5, 17 avis" [ref=e70] [cursor=pointer]:
+                    - generic [ref=e71]:
+                      - generic [ref=e72]:
+                        - generic [ref=e73]: 4,6
+                        - generic "Trustpilot 4,6 sur 5" [ref=e75]
+                      - generic [ref=e87]:
+                        - paragraph [ref=e89]: "\"Parfait pour aider à choisir un véhicule\""
+                        - generic:
+                          - paragraph: "\"Pour les professionnels\""
+                        - generic:
+                          - paragraph: "\"Rapport super complet et clairement présenté\""
+                        - generic:
+                          - paragraph: "\"Très bonne expérience avec Aimoove\""
+                        - generic:
+                          - paragraph: "\"Une approche rassurante\""
+                        - generic:
+                          - paragraph: "\"Super plateforme\""
+                        - generic:
+                          - paragraph: "\"Je recommande vivement\""
+                        - generic:
+                          - paragraph: "\"Site intéressant\""
+                        - generic:
+                          - paragraph: "\"Site très innovant\""
+                        - generic:
+                          - paragraph: "\"Très bon rapport\""
+                        - generic:
+                          - paragraph: "\"J'ai utilisé cet outil d'aide à la...\""
+                        - generic:
+                          - paragraph: "\"Un concept innovant\""
+                        - generic:
+                          - paragraph: "\"Bluffant!!\""
+                        - generic:
+                          - paragraph: "\"Très bonne expérience\""
+                        - generic:
+                          - paragraph: "\"Merci à Aimoove\""
+                        - generic:
+                          - paragraph: "\"Un Gain de temps\""
+                        - generic:
+                          - paragraph: "\"Clair et facile\""
+                  - button "Ouvrir les avis Google, note 4,9 sur 5, 17 avis" [ref=e92] [cursor=pointer]:
+                    - generic [ref=e93]:
+                      - generic [ref=e94]:
+                        - generic [ref=e95]: 4,9
+                        - generic "Google 4,9 sur 5" [ref=e97]
+                      - generic [ref=e115]:
+                        - paragraph [ref=e117]: "\"Une application avec un réel intérêt !\""
+                        - generic:
+                          - paragraph: "\"Facile d’utilisation et très précis\""
+                        - generic:
+                          - paragraph: "\"Accompagnement sur mesure\""
+                        - generic:
+                          - paragraph: "\"Rapport clair et rassurant\""
+                        - generic:
+                          - paragraph: "\"Super concept\""
+                        - generic:
+                          - paragraph: "\"Service gagnant\""
+                        - generic:
+                          - paragraph: "\"Excellent outil\""
+                        - generic:
+                          - paragraph: "\"Informations utiles et cruciales\""
+                        - generic:
+                          - paragraph: "\"Très professionnel\""
+                        - generic:
+                          - paragraph: "\"Outil d'aide au choix\""
+                        - generic:
+                          - paragraph: "\"Bluffé par la précision\""
+                        - generic:
+                          - paragraph: "\"Solution fiable et bien pensée\""
+                        - generic:
+                          - paragraph: "\"Top, Super site\""
+                        - generic:
+                          - paragraph: "\"Gain de temps\""
+                        - generic:
+                          - paragraph: "\"Rapport bluffant\""
+              - generic [ref=e118]:
+                - generic:
+                  - generic:
+                    - paragraph: "ILS NOUS SOUTIENNENT:"
+                  - generic:
+                    - generic:
+                      - img "Région Auvergne-Rhône-Alpes"
+                    - generic:
+                      - img "CCI Lyon Métropole Saint-Etienne Roanne"
+                    - generic:
+                      - img "La French Tech Saint-Étienne Lyon"
+                    - generic:
+                      - img "Start-up & Go Auvergne-Rhône-Alpes"
+                    - generic:
+                      - img "Novacité"
+                    - generic:
+                      - img "Bpifrance"
+                    - generic:
+                      - img "Région Auvergne-Rhône-Alpes"
+                    - generic:
+                      - img "CCI Lyon Métropole Saint-Etienne Roanne"
+                    - generic:
+                      - img "La French Tech Saint-Étienne Lyon"
+                    - generic:
+                      - img "Start-up & Go Auvergne-Rhône-Alpes"
+                    - generic:
+                      - img "Novacité"
+                    - generic:
+                      - img "Bpifrance"
+                    - generic:
+                      - img "Région Auvergne-Rhône-Alpes"
+                    - generic:
+                      - img "CCI Lyon Métropole Saint-Etienne Roanne"
+                    - generic:
+                      - img "La French Tech Saint-Étienne Lyon"
+                    - generic:
+                      - img "Start-up & Go Auvergne-Rhône-Alpes"
+                    - generic:
+                      - img "Novacité"
+                    - generic:
+                      - img "Bpifrance"
+                    - generic:
+                      - img "Région Auvergne-Rhône-Alpes"
+                    - generic:
+                      - img "CCI Lyon Métropole Saint-Etienne Roanne"
+                    - generic:
+                      - img "La French Tech Saint-Étienne Lyon"
+                    - generic:
+                      - img "Start-up & Go Auvergne-Rhône-Alpes"
+                    - generic:
+                      - img "Novacité"
+                    - generic:
+                      - img "Bpifrance"
+          - generic [ref=e119]:
+            - generic [ref=e120]:
+              - generic [ref=e121]:
+                - paragraph [ref=e122]: VOTRE RAPPORT COMPLET À partir de 29,90 €
+                - generic [ref=e123]:
+                  - generic [ref=e124]: Analyse immédiate
+                  - generic [ref=e128]: Aide à la négociation
+                  - generic [ref=e132]: Score de Fiabilité
+                  - generic [ref=e136]: Valeur réelle du véhicule
+                  - generic [ref=e140]: Données multi-sources vérifiées
+                  - generic [ref=e144]: Historique administratif
+              - img "Aperçu animé du rapport Aimoove" [ref=e149]
+            - generic [ref=e150]:
+              - generic [ref=e152]:
+                - generic [ref=e153]:
+                  - heading "Pourquoi Aimoove est différent ?" [level=2] [ref=e154]
+                  - paragraph [ref=e155]: Comparez les fonctionnalités d'Aimoove avec les services d'historique traditionnels.
+                - generic [ref=e156]:
+                  - button "Comparatif complet" [ref=e157] [cursor=pointer]
+                  - button "Nos exclusivités" [ref=e158] [cursor=pointer]
+                - table [ref=e160]:
+                  - rowgroup [ref=e161]:
+                    - row [ref=e162]:
+                      - columnheader "Fonctionnalité" [ref=e163]
+                      - columnheader "Aimoove" [ref=e164]
+                      - columnheader "Services historiques*" [ref=e165]
+                  - rowgroup [ref=e166]:
+                    - row [ref=e167]:
+                      - cell "Historique administratif du véhicule" [ref=e168]
+                      - cell [ref=e170]:
+                        - img "Inclus" [ref=e172]
+                      - cell [ref=e175]:
+                        - img "Inclus" [ref=e177]
+                    - row [ref=e180]:
+                      - cell "Kilométrage, CT, sinistres, vol/gage" [ref=e181]
+                      - cell [ref=e183]:
+                        - img "Inclus" [ref=e185]
+                      - cell [ref=e188]:
+                        - img "Inclus" [ref=e190]
+                    - row [ref=e193]:
+                      - cell "Estimation de prix / valeur marché" [ref=e194]
+                      - cell [ref=e196]:
+                        - img "Inclus" [ref=e198]
+                      - cell [ref=e201]:
+                        - img "Partiel" [ref=e203]
+                    - row [ref=e206]:
+                      - cell "Analyse prédictive des pannes Exclusif" [ref=e207]:
+                        - generic [ref=e208]:
+                          - text: Analyse prédictive des pannes
+                          - generic [ref=e209]: Exclusif
+                      - cell [ref=e210]:
+                        - img "Inclus" [ref=e212]
+                      - cell [ref=e215]:
+                        - img "Non disponible" [ref=e217]
+                    - row [ref=e220]:
+                      - cell "Score de Fiabilité synthétique Exclusif" [ref=e221]:
+                        - generic [ref=e222]:
+                          - text: Score de Fiabilité synthétique
+                          - generic [ref=e223]: Exclusif
+                      - cell [ref=e224]:
+                        - img "Inclus" [ref=e226]
+                      - cell [ref=e229]:
+                        - img "Non disponible" [ref=e231]
+                    - row [ref=e234]:
+                      - cell "Guide d'inspection avant visite Exclusif" [ref=e235]:
+                        - generic [ref=e236]:
+                          - text: Guide d'inspection avant visite
+                          - generic [ref=e237]: Exclusif
+                      - cell [ref=e238]:
+                        - img "Inclus" [ref=e240]
+                      - cell [ref=e243]:
+                        - img "Non disponible" [ref=e245]
+                    - row [ref=e248]:
+                      - cell "Coûts futurs / coût d'usage projeté Exclusif" [ref=e249]:
+                        - generic [ref=e250]:
+                          - text: Coûts futurs / coût d'usage projeté
+                          - generic [ref=e251]: Exclusif
+                      - cell [ref=e252]:
+                        - img "Inclus" [ref=e254]
+                      - cell [ref=e257]:
+                        - img "Non disponible" [ref=e259]
+                    - row [ref=e262]:
+                      - cell "Analyse comparative de plusieurs annonces Exclusif" [ref=e263]:
+                        - generic [ref=e264]:
+                          - text: Analyse comparative de plusieurs annonces
+                          - generic [ref=e265]: Exclusif
+                      - cell [ref=e266]:
+                        - img "Inclus" [ref=e268]
+                      - cell [ref=e271]:
+                        - img "Non disponible" [ref=e273]
+                - paragraph [ref=e277]: "* Données basées sur l'analyse de la concurrence sur le marché du rapport d'historique (2026)."
+              - generic [ref=e278]:
+                - generic [ref=e279]:
+                  - generic [ref=e280]:
+                    - heading "Des offres simples pour acheter sereinement" [level=2] [ref=e281]
+                    - paragraph [ref=e282]: Choisissez l'offre adaptée, lancez votre rapport et sécurisez votre décision en quelques minutes.
+                  - generic [ref=e283]:
+                    - generic [ref=e284]:
+                      - generic [ref=e285]:
+                        - heading "Expert ONE" [level=4] [ref=e286]
+                        - paragraph [ref=e287]: L'essentiel pour valider votre choix avant de signer.
+                      - generic [ref=e288]: 29,90 €
+                      - list [ref=e293]:
+                        - listitem [ref=e294]:
+                          - generic [ref=e298]: 20 points de contrôle spécifiques au modèle.
+                        - listitem [ref=e299]:
+                          - generic [ref=e303]: "Alertes pannes & entretien : anticipez les coûts futurs."
+                        - listitem [ref=e304]:
+                          - generic [ref=e308]: Estimation de prix en temps réel (Marché).
+                        - listitem [ref=e309]:
+                          - generic [ref=e313]: Analyse de +100 sources de données.
+                        - listitem [ref=e314]:
+                          - generic [ref=e318]: Avis certifiés de propriétaires.
+                        - listitem [ref=e319]:
+                          - generic [ref=e323]: Rapport HistoVec intégré.
+                      - button "📄 Voir un exemple de rapport" [ref=e324] [cursor=pointer]
+                      - button "Choisir Expert ONE" [ref=e325] [cursor=pointer]
+                    - generic [ref=e326]:
+                      - generic [ref=e327]: RECOMMANDÉ
+                      - generic [ref=e328]:
+                        - heading "Expert PACK" [level=4] [ref=e329]
+                        - paragraph [ref=e330]: Idéal pour comparer plusieurs annonces et faire le meilleur choix.
+                      - generic [ref=e331]:
+                        - generic [ref=e332]: 59,90 €
+                        - paragraph [ref=e335]: "Soit le rapport à l'unité: 19,97 €"
+                      - list [ref=e337]:
+                        - listitem [ref=e338]:
+                          - generic [ref=e342]: 3 rapports complets (Historique, fiabilité, prix).
+                        - listitem [ref=e343]:
+                          - generic [ref=e347]: "Scanner anti-arnaque : détection d'annonces frauduleuses."
+                        - listitem [ref=e348]:
+                          - generic [ref=e352]: "Kit de négociation : arguments clés pour baisser le prix."
+                        - listitem [ref=e353]:
+                          - generic [ref=e357]: "Aide à la revente : annonce pro générée automatiquement."
+                        - listitem [ref=e358]:
+                          - generic [ref=e362]: "Services Premium inclus : accès prioritaire au support."
+                      - button "📄 Voir un exemple de rapport" [ref=e363] [cursor=pointer]
+                      - button "Choisir Expert PACK" [ref=e364] [cursor=pointer]
+                    - generic [ref=e365]:
+                      - generic [ref=e366]:
+                        - heading "Expert MAX" [level=4] [ref=e367]
+                        - paragraph [ref=e368]: La solution ultime pour les recherches intensives ou les passionnés.
+                      - generic [ref=e369]:
+                        - generic [ref=e370]: 159,00 €
+                        - paragraph [ref=e373]: "Soit le rapport à l'unité: 15,90 €"
+                      - list [ref=e375]:
+                        - listitem [ref=e376]:
+                          - generic [ref=e380]: 10 rapports complets d'analyse véhicule.
+                        - listitem [ref=e381]:
+                          - generic [ref=e385]: Toutes les options de Expert PACK incluses.
+                        - listitem [ref=e386]:
+                          - generic [ref=e390]: Le meilleur tarif par rapport d'analyse
+                      - button "📄 Voir un exemple de rapport" [ref=e391] [cursor=pointer]
+                      - button "Choisir Expert MAX" [ref=e392] [cursor=pointer]
+                - generic [ref=e394]:
+                  - paragraph [ref=e395]:
+                    - text: Paiement sécurisé par
+                    - strong [ref=e398]: Stripe
+                  - paragraph [ref=e399]: Vos crédits sont conservés indéfiniment sur votre compte AiMoove.
+              - generic [ref=e402]:
+                - generic [ref=e403]:
+                  - heading "La vérité, pas la quantité" [level=2] [ref=e404]
+                  - paragraph [ref=e405]: Pour Aimoove, un rapport de fiabilité ne se mesure pas au nombre de sources, mais à leur intégrité.
+                - paragraph [ref=e407]: Contrairement aux promesses de "milliers de bases de données internationales" aux mises à jour incertaines, nous avons fait le choix de l'exigence. Nos rapports s'appuient exclusivement sur un réseau d'institutions nationales officielles, de registres constructeurs certifiés et de partenaires techniques agréés.
+                - generic [ref=e408]:
+                  - generic [ref=e409]:
+                    - generic [ref=e410]: ✓
+                    - text: Sources officielles vérifiées
+                  - generic [ref=e411]: •
+                  - generic [ref=e412]:
+                    - generic [ref=e413]: ✓
+                    - text: Rapport en moins de 3 min
+                  - generic [ref=e414]: •
+                  - generic [ref=e415]:
+                    - generic [ref=e416]: ✓
+                    - text: Satisfait ou remboursé
+                - group [ref=e417]:
+                  - generic "Voir notre méthodologie en détail" [ref=e418] [cursor=pointer]
+              - generic [ref=e422]:
+                - heading "Questions fréquemment posées" [level=2] [ref=e423]
+                - generic [ref=e424]:
+                  - generic [ref=e425]:
+                    - button "Pourquoi utiliser Aimoove avant d’acheter une voiture ?" [ref=e426] [cursor=pointer]
+                    - generic [ref=e431]: L'achat d'un véhicule d'occasion est souvent stressant. Aimoove retire l'incertitude en vous fournissant un "check-up" digital complet. Là où un vendeur peut omettre un détail, nos données révèlent la réalité historique et technique du véhicule.
+                  - generic [ref=e432]:
+                    - button "Aimoove est-il un site de petites annonces ?" [ref=e433] [cursor=pointer]
+                    - generic [ref=e438]: Non. Aimoove est un tiers de confiance. Nous ne vendons pas de voitures, nous vendons de la transparence. Vous trouvez votre voiture sur n'importe quelle plateforme (Leboncoin, La Centrale, etc.), et vous utilisez Aimoove pour vérifier si c'est une bonne affaire.
+                  - generic [ref=e439]:
+                    - button "Quelles informations vais-je recevoir exactement ?" [ref=e440] [cursor=pointer]
+                    - generic [ref=e445]: "Le rapport se divise en 5 piliers essentiels : • Le Juste Prix : Une analyse comparative pour savoir si le vendeur est trop gourmand ou si le prix est suspectement bas. • L'Historique : Le nombre de mains, l'usage précédent (ex: ancienne voiture de location) et la cohérence du kilométrage, contrôles techniques… • Santé Technique : Les points de vigilance spécifiques à ce modèle (faiblesses moteur connues, rappels constructeurs), consommation, concurrents. • Le Score Aimoove : Une note globale sur 100 pour décider en un coup d'œil. • L'Analyse d’annonce : Vous hésitez entre plusieurs modèles ? Aimoove vous aide à choisir la meilleure annonce."
+                  - generic [ref=e446]:
+                    - button "Combien de temps faut-il pour générer un rapport ?" [ref=e447] [cursor=pointer]
+                    - generic [ref=e452]: C'est quasi instantané. Une fois l'immatriculation saisie ou le modèle rentré, notre algorithme traite les données en moins de 3 minutes pour générer votre rapport interactif.
+                  - generic [ref=e453]:
+                    - button "Le rapport est-il payant ?" [ref=e454] [cursor=pointer]
+                    - generic [ref=e459]: "Oui, nous proposons 3 formules: • Le rapport EXPERT ONE vous permet de vérifier un véhicule avant d’acheter. • La formule EXPERT PACK est un pack de 3 rapports si vous hésitez entre plusieurs modèles. • La formule EXPERT MAX est un pack de 10 rapports pour les passionnés qui veulent vérifier autant de véhicules qu’ils le souhaitent."
+                  - generic [ref=e460]:
+                    - button "Comment pouvez-vous connaître l'état d'une voiture sans la voir ?" [ref=e461] [cursor=pointer]
+                    - generic [ref=e466]: Nous utilisons la puissance de la donnée ("Big Data"). En croisant les registres d'immatriculation, les historiques de maintenance, les bases de données de pannes européennes et les cotes du marché en temps réel, nous obtenons une image fidèle du véhicule sans déplacement physique.
+                  - generic [ref=e467]:
+                    - button "Que se passe-t-il si l'immatriculation n'est pas reconnue ?" [ref=e468] [cursor=pointer]
+                    - generic [ref=e473]: Cela arrive parfois pour des véhicules très récents. Dans ce cas, notre support technique vous rembourse sous 24h sans discussion.
+                  - generic [ref=e474]:
+                    - button "Est-ce que Aimoove me garantit que la voiture ne tombera jamais en panne ?" [ref=e475] [cursor=pointer]
+                    - generic [ref=e480]: Aucun outil ne peut prédire l'avenir à 100%, mais Aimoove réduit drastiquement le risque. Nous vous signalons les "loups" potentiels et les pannes statistiques qui touchent précisément le modèle que vous convoitez.
+                  - generic [ref=e481]:
+                    - button "Puis-je partager le rapport avec le vendeur pour négocier ?" [ref=e482] [cursor=pointer]
+                    - generic [ref=e487]: Absolument ! C'est d'ailleurs l'une des utilisations préférées de nos utilisateurs. Si le rapport Aimoove indique des frais à prévoir ou un prix au-dessus du marché, vous disposez d'un argument factuel et solide pour faire baisser le prix de vente.
+                  - generic [ref=e488]:
+                    - button "Pourquoi choisir Aimoove plutôt qu'un autre service de rapport d'historique (Histovec, CarVertical, etc.) ?" [ref=e489] [cursor=pointer]
+                    - generic [ref=e494]: "La plupart de nos concurrents se contentent de compiler des données passées avec des sources parfois non vérifiées (accidents enregistrés, kilométrage). Aimoove va beaucoup plus loin grâce à l'Intelligence Artificielle : • L'analyse prédictive : Là où les autres vous disent ce qui est arrivé à la voiture, Aimoove vous dit ce qui risque de lui arriver. Notre algorithme analyse les faiblesses structurelles de chaque modèle (ex: courroie de distribution fragile sur tel moteur à 80 000 km) pour vous alerter avant la panne. • Un Score de Fiabilité unique : Nous ne vous livrons pas seulement une liste brute de données. Nous traduisons ces informations complexes en un Score de Fiabilité clair, vous permettant de comparer deux véhicules instantanément. • Analyse du Marché en Temps Réel : Contrairement aux rapports statiques, nous intégrons une analyse de prix dynamique. Nous vous disons si le véhicule est une opportunité financière ou une mauvaise affaire selon l'état actuel du marché. • Accompagnement Personnalisé : Aimoove ne se contente pas de vous donner un PDF. Notre interface est conçue pour être votre \"assistant d'achat\" personnel, vous guidant sur les points spécifiques à vérifier lors de votre visite physique. En résumé : Les autres regardent dans le rétroviseur, Aimoove regarde la route devant vous pour sécuriser votre investissement à long terme."
+                  - generic [ref=e495]:
+                    - button "Puis-je avoir toute confiance en la fiabilité d'Aimoove ?" [ref=e496] [cursor=pointer]
+                    - generic [ref=e501]: "Absolument. Contrairement à de nombreux services en ligne anonymes, Aimoove est une entreprise française solidement ancrée dans l'écosystème de l'innovation. Notre sérieux et la pertinence de notre technologie sont validés par les institutions les plus prestigieuses : • Lauréat Novacité (CCI) : Un label d'excellence récompensant les entreprises à fort potentiel et à la fiabilité éprouvée. • Soutien de la Région Auvergne-Rhône-Alpes : Nous sommes accompagnés par la région dans notre développement technologique. • Membre de la French Tech (Lyon & Grand Paris) : Cette appartenance garantit que nous respectons les standards les plus élevés en matière d'innovation et de protection des données. Ces partenaires ne nous apportent pas seulement leur logo ; ils ont audité notre modèle économique et la valeur de nos algorithmes. Choisir Aimoove, c'est choisir une solution reconnue, certifiée et soutenue par les acteurs majeurs de l'économie française."
+                  - generic [ref=e502]:
+                    - button "Une question spécifique ?" [ref=e503] [cursor=pointer]
+                    - generic [ref=e508]: Notre équipe est à votre écoute pour vous accompagner dans votre projet d'achat. Contactez-nous !
+              - generic [ref=e510]:
+                - generic [ref=e511]:
+                  - generic [ref=e512]:
+                    - paragraph [ref=e513]: Blog Aimoove
+                    - heading "Nos derniers conseils pour acheter mieux" [level=2] [ref=e514]
+                  - link "Voir tous les articles" [ref=e515] [cursor=pointer]:
+                    - /url: /blog
+                - generic [ref=e516]:
+                  - article [ref=e517]:
+                    - 'link "France 2026 : top des voitures d''occasion les plus fiables Mise en avant" [ref=e518] [cursor=pointer]':
+                      - /url: /blog/france-2026-top-des-voitures-d-occasion-les-plus-fiables
+                      - 'img "France 2026 : top des voitures d''occasion les plus fiables" [ref=e519]'
+                      - generic [ref=e520]: Mise en avant
+                    - generic [ref=e521]:
+                      - heading [level=3] [ref=e522]:
+                        - 'link "France 2026 : top des voitures d''occasion les plus fiables" [ref=e523] [cursor=pointer]':
+                          - /url: /blog/france-2026-top-des-voitures-d-occasion-les-plus-fiables
+                      - paragraph [ref=e524]: Découvrez le classement 2026 des voitures d'occasion les plus fiables basé sur 9,5M de contrôles techniques. Modèles à privilégier et pannes à éviter.
+                      - generic [ref=e525]: 29/05/2026
+                  - generic [ref=e526]:
+                    - generic [ref=e528]:
+                      - article [ref=e529]:
+                        - link [ref=e530] [cursor=pointer]:
+                          - /url: /blog/zfe-2026-quelle-voiture-d-occasion-acheter-sans-risque
+                          - 'img "ZFE 2026 : quelle voiture d''occasion acheter sans risque ?" [ref=e531]'
+                        - generic [ref=e532]:
+                          - heading [level=3] [ref=e533]:
+                            - 'link "ZFE 2026 : quelle voiture d''occasion acheter sans risque ?" [ref=e534] [cursor=pointer]':
+                              - /url: /blog/zfe-2026-quelle-voiture-d-occasion-acheter-sans-risque
+                          - paragraph [ref=e535]: "Guide ZFE 2026 : compare les voitures d'occasion a acheter pour eviter les interdictions Crit'Air a Paris, Lyon et dans 43 metropoles francaises."
+                          - generic [ref=e536]: 26/05/2026
+                      - article [ref=e537]:
+                        - link [ref=e538] [cursor=pointer]:
+                          - /url: /blog/carburant-2026-quelle-motorisation-d-occasion-choisir
+                          - 'img "Carburant 2026 : quelle motorisation d''occasion choisir ?" [ref=e539]'
+                        - generic [ref=e540]:
+                          - heading [level=3] [ref=e541]:
+                            - 'link "Carburant 2026 : quelle motorisation d''occasion choisir ?" [ref=e542] [cursor=pointer]':
+                              - /url: /blog/carburant-2026-quelle-motorisation-d-occasion-choisir
+                          - paragraph [ref=e543]: "Comparez les couts reels des motorisations d'occasion en France en 2026 : essence, diesel, hybride, E85 ou electrique."
+                          - generic [ref=e544]: 21/05/2026
+                      - article [ref=e545]:
+                        - link [ref=e546] [cursor=pointer]:
+                          - /url: /blog/pannes-couteuses-les-10-occasions-les-plus-vendues-sous-la-loupe
+                          - 'img "Pannes coûteuses : les 10 occasions les plus vendues sous la loupe" [ref=e547]'
+                        - generic [ref=e548]:
+                          - heading [level=3] [ref=e549]:
+                            - 'link "Pannes coûteuses : les 10 occasions les plus vendues sous la loupe" [ref=e550] [cursor=pointer]':
+                              - /url: /blog/pannes-couteuses-les-10-occasions-les-plus-vendues-sous-la-loupe
+                          - paragraph [ref=e551]: "Découvrez les pannes les plus coûteuses des 10 voitures d’occasion les plus vendues en France : coûts réels, kilométrages à risque et contrôles avant achat."
+                          - generic [ref=e552]: 19/05/2026
+                      - article [ref=e553]:
+                        - link [ref=e554] [cursor=pointer]:
+                          - /url: /blog/reparation-durable-les-acteurs-qui-allongent-la-duree-de-vie-de-votre-vehicule
+                          - 'img "Réparation durable : les acteurs qui allongent la durée de vie de votre véhicule" [ref=e555]'
+                        - generic [ref=e556]:
+                          - heading [level=3] [ref=e557]:
+                            - 'link "Réparation durable : les acteurs qui allongent la durée de vie de votre véhicule" [ref=e558] [cursor=pointer]':
+                              - /url: /blog/reparation-durable-les-acteurs-qui-allongent-la-duree-de-vie-de-votre-vehicule
+                          - paragraph [ref=e559]: La réparation durable n'est plus une niche, c'est le futur de l'automobile. Voici les acteurs concrets qui la rendent possible.
+                          - generic [ref=e560]: 30/04/2026
+                      - article [ref=e561]:
+                        - link [ref=e562] [cursor=pointer]:
+                          - /url: /blog/ce-que-l-ufc-que-choisir-revele-sur-les-rapports-d-historique
+                          - img "Ce que l'UFC-Que Choisir révèle sur les rapports d'historique" [ref=e563]
+                        - generic [ref=e564]:
+                          - heading [level=3] [ref=e565]:
+                            - link "Ce que l'UFC-Que Choisir révèle sur les rapports d'historique" [ref=e566] [cursor=pointer]:
+                              - /url: /blog/ce-que-l-ufc-que-choisir-revele-sur-les-rapports-d-historique
+                          - paragraph [ref=e567]: En avril 2025, UFC-Que Choisir a testé les trois principaux acteurs du marché français. Les résultats sont édifiants et ils posent une question que personne n
+                          - generic [ref=e568]: 24/04/2026
+                    - generic [ref=e569]:
+                      - button "Aller à l'article 1" [ref=e570] [cursor=pointer]
+                      - button "Aller à l'article 2" [ref=e571] [cursor=pointer]
+                      - button "Aller à l'article 3" [ref=e572] [cursor=pointer]
+                      - button "Aller à l'article 4" [ref=e573] [cursor=pointer]
+                      - button "Aller à l'article 5" [ref=e574] [cursor=pointer]
+            - generic [ref=e576]:
+              - generic:
+                - generic:
+                  - paragraph: "ILS NOUS SOUTIENNENT:"
+                  - paragraph: Propulsé par un écosystème d'excellence!Aimoove est fier d'être soutenu par la Région Auvergne-Rhône-Alpes, la CCI Lyon Métropole, Novacité, Bpifrance et les réseaux French Tech Lyon Saint-Étienne et Grand Paris.
+                - generic:
+                  - generic:
+                    - img "Région Auvergne-Rhône-Alpes"
+                  - generic:
+                    - img "CCI Lyon Métropole Saint-Etienne Roanne"
+                  - generic:
+                    - img "La French Tech Saint-Étienne Lyon"
+                  - generic:
+                    - img "Start-up & Go Auvergne-Rhône-Alpes"
+                  - generic:
+                    - img "Novacité"
+                  - generic:
+                    - img "Bpifrance"
+                  - generic:
+                    - img "Région Auvergne-Rhône-Alpes"
+                  - generic:
+                    - img "CCI Lyon Métropole Saint-Etienne Roanne"
+                  - generic:
+                    - img "La French Tech Saint-Étienne Lyon"
+                  - generic:
+                    - img "Start-up & Go Auvergne-Rhône-Alpes"
+                  - generic:
+                    - img "Novacité"
+                  - generic:
+                    - img "Bpifrance"
+                  - generic:
+                    - img "Région Auvergne-Rhône-Alpes"
+                  - generic:
+                    - img "CCI Lyon Métropole Saint-Etienne Roanne"
+                  - generic:
+                    - img "La French Tech Saint-Étienne Lyon"
+                  - generic:
+                    - img "Start-up & Go Auvergne-Rhône-Alpes"
+                  - generic:
+                    - img "Novacité"
+                  - generic:
+                    - img "Bpifrance"
+                  - generic:
+                    - img "Région Auvergne-Rhône-Alpes"
+                  - generic:
+                    - img "CCI Lyon Métropole Saint-Etienne Roanne"
+                  - generic:
+                    - img "La French Tech Saint-Étienne Lyon"
+                  - generic:
+                    - img "Start-up & Go Auvergne-Rhône-Alpes"
+                  - generic:
+                    - img "Novacité"
+                  - generic:
+                    - img "Bpifrance"
+              - generic [ref=e578]:
+                - generic [ref=e579]:
+                  - img "Aimoove" [ref=e583]
+                  - paragraph [ref=e584]: Particulier ou professionnel, simplifiez l'achat et la vente de véhicules d'occasion avec AiMoove. Notre plateforme, basée sur l'IA et des données vérifiées, génère des rapports fiables sur la fiabilité, la valeur et les risques de chaque voiture. Décidez sereinement et gagnez du temps grâce à un service transparent, pensé pour vous accompagner à chaque étape. AiMoove, l'expertise et la confiance pour vos projets automobiles.
+                - generic [ref=e585]:
+                  - heading "En savoir plus" [level=3] [ref=e586]
+                  - list [ref=e587]:
+                    - listitem [ref=e588]:
+                      - link "À propos" [ref=e589] [cursor=pointer]:
+                        - /url: /a-propos
+                    - listitem [ref=e590]:
+                      - link "FAQ" [ref=e591] [cursor=pointer]:
+                        - /url: /faq
+                    - listitem [ref=e592]:
+                      - link "Contact" [ref=e593] [cursor=pointer]:
+                        - /url: mailto:contact@aimoove.fr
+                    - listitem [ref=e594]:
+                      - link "Mentions légales" [ref=e595] [cursor=pointer]:
+                        - /url: /mentions-legales
+                    - listitem [ref=e596]:
+                      - link "Politique de confidentialité" [ref=e597] [cursor=pointer]:
+                        - /url: /confidentialite
+                    - listitem [ref=e598]:
+                      - link "Conditions générales de vente" [ref=e599] [cursor=pointer]:
+                        - /url: /conditions-generales
+                - generic [ref=e600]:
+                  - heading "Nos plateformes" [level=3] [ref=e601]
+                  - list [ref=e602]:
+                    - listitem [ref=e603]:
+                      - 'link "Aimoove PRO: Pour les professionnels de l''automobile" [ref=e604] [cursor=pointer]':
+                        - /url: /pro
+                - generic [ref=e605]:
+                  - heading "Suivez-nous" [level=3] [ref=e606]
+                  - generic [ref=e607]:
+                    - link [ref=e608] [cursor=pointer]:
+                      - /url: https://www.instagram.com/aimoove.fr/
+                    - link [ref=e612] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/aimoovesas
+  - button "Gérer mes préférences cookies" [ref=e617] [cursor=pointer]

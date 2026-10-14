@@ -1,0 +1,45 @@
+node_modules
+.next
+out
+dist
+.env
+.env.local
+.env.*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+output
+.playwright-cli
+tsconfig.tsbuildinfo
+supabase/.temp/
+
+worked_locally_fb/
+
+# Large local source datasets
+/data/source/*.json
+
+tmp-bg-tests/
+tmp-vehicle-originals.png
+
+# Next.js build and audit outputs
+.next/
+.next-*/
+out/
+output/
+
+# Temporary test assets
+tmp-bg-tests/
+tmp-vehicle-originals.png
+
+# Local diagnostics
+artifacts/facebook-extraction-diagnostics/
+
+# Environment secrets
+.env
+.env.local
+.env.*.local
+
+# Generated diagnostics and Graphify outputs
+artifacts/
+graphify-out/

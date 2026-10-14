@@ -1,0 +1,107 @@
+- generic [active] [ref=f14e1]:
+  - banner [ref=f14e2]:
+    - link "Skip to content" [ref=f14e3] [cursor=pointer]:
+      - /url: "#main-content"
+    - generic [ref=f14e4]:
+      - link "AutoCheck QC home" [ref=f14e5] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f14e10]:
+          - strong [ref=f14e11]: AutoCheck QC
+          - generic [ref=f14e12]: Know more. Buy better.
+      - button "Open navigation" [ref=f14e14] [cursor=pointer]
+  - main [ref=f14e17]:
+    - generic [ref=f14e19]:
+      - list "Report progress" [ref=f14e20]:
+        - 'listitem "Add listing: current step" [ref=f14e21]':
+          - generic [aria-hidden] [ref=f14e22]: "1"
+          - strong [ref=f14e23]: Add listing
+        - 'listitem "Review vehicle: upcoming" [ref=f14e24]':
+          - generic [aria-hidden] [ref=f14e25]: "2"
+          - strong [ref=f14e26]: Review vehicle
+        - 'listitem "Choose report: upcoming" [ref=f14e27]':
+          - generic [aria-hidden] [ref=f14e28]: "3"
+          - strong [ref=f14e29]: Choose report
+        - 'listitem "See result: upcoming" [ref=f14e30]':
+          - generic [aria-hidden] [ref=f14e31]: "4"
+          - strong [ref=f14e32]: See result
+      - generic [ref=f14e33]:
+        - generic [ref=f14e34]:
+          - generic [ref=f14e35]: STEP 1 OF 4
+          - generic [ref=f14e36]: ADD LISTING
+        - generic [ref=f14e37]:
+          - heading "Start with the listing." [level=1] [ref=f14e38]
+          - paragraph [ref=f14e39]: Paste a link or the seller’s description. We’ll organize the details for a focused buyer review.
+        - generic [ref=f14e40]:
+          - generic "Listing input method" [ref=f14e41]:
+            - button "Listing link" [pressed] [ref=f14e42] [cursor=pointer]
+            - button "Ad text" [ref=f14e46] [cursor=pointer]
+          - generic [ref=f14e51]:
+            - generic [ref=f14e52]: Public listing URL
+            - textbox "Public listing URL" [ref=f14e53]:
+              - /placeholder: Paste the listing link here
+            - generic [ref=f14e54]: Marketplace · Kijiji · AutoTrader · other public listings
+          - button "Read Listing" [disabled] [ref=f14e59]
+          - generic "Other ways to add a vehicle" [ref=f14e62]:
+            - button "Enter manually" [ref=f14e63] [cursor=pointer]
+            - generic [aria-hidden] [ref=f14e66]: /
+            - button "Use screenshots" [ref=f14e67] [cursor=pointer]
+          - paragraph [ref=f14e72]: No account needed. Leave personal information out of the listing.
+        - generic [ref=f14e73]:
+          - generic [ref=f14e74]: AC
+          - paragraph [ref=f14e75]:
+            - text: A clearer starting point.
+            - strong [ref=f14e76]: Before the professional inspection.
+      - generic "What to expect" [ref=f14e77]:
+        - article [ref=f14e78]:
+          - generic [ref=f14e79]: "01"
+          - generic [ref=f14e80]:
+            - strong [ref=f14e81]: No account required
+            - paragraph [ref=f14e82]: Start with a public listing or the seller's description.
+        - article [ref=f14e83]:
+          - generic [ref=f14e84]: "02"
+          - generic [ref=f14e85]:
+            - strong [ref=f14e86]: Clear next steps
+            - paragraph [ref=f14e87]: Review what is known before choosing a report.
+        - article [ref=f14e88]:
+          - generic [ref=f14e89]: "03"
+          - generic [ref=f14e90]:
+            - strong [ref=f14e91]: Built for real buyers
+            - paragraph [ref=f14e92]: Keep missing details visible before you commit.
+  - contentinfo [ref=f14e93]:
+    - generic [ref=f14e94]:
+      - generic [ref=f14e95]:
+        - paragraph [ref=f14e96]: The buyer’s vehicle dossier
+        - heading "Know more. Buy better." [level=2] [ref=f14e97]
+        - paragraph [ref=f14e98]: AutoCheck QC · Made for the questions before the keys.
+        - paragraph [ref=f14e99]: A listing pre-screen does not replace an independent mechanical inspection. Seller claims, vehicle history and actual condition must be verified before buying.
+      - generic [ref=f14e100]:
+        - heading "Product" [level=3] [ref=f14e101]
+        - link "Check a Car" [ref=f14e102] [cursor=pointer]:
+          - /url: /check
+        - link "Prepare an Inspection" [ref=f14e103] [cursor=pointer]:
+          - /url: /inspection
+        - link "Example Report" [ref=f14e104] [cursor=pointer]:
+          - /url: /example-report
+        - link "Pricing" [ref=f14e105] [cursor=pointer]:
+          - /url: /pricing
+      - generic [ref=f14e106]:
+        - heading "Company" [level=3] [ref=f14e107]
+        - link "FAQ" [ref=f14e108] [cursor=pointer]:
+          - /url: /faq
+        - link "Privacy" [ref=f14e109] [cursor=pointer]:
+          - /url: /privacy
+        - link "Terms" [ref=f14e110] [cursor=pointer]:
+          - /url: /terms
+        - link "Contact" [ref=f14e111] [cursor=pointer]:
+          - /url: /contact
+      - generic [ref=f14e112]:
+        - heading "Official buyer resources" [level=3] [ref=f14e113]
+        - link "SAAQ vehicle transfer guidance" [ref=f14e114] [cursor=pointer]:
+          - /url: https://saaq.gouv.qc.ca/en/vehicle-registration/registering-vehicle/automobile-motor-home/passenger-vehicle-between-individuals
+        - link "Quebec consumer protection for used cars" [ref=f14e115] [cursor=pointer]:
+          - /url: https://www.opc.gouv.qc.ca/en/consumer/topic/warranties/automobile/used-car
+        - link "Quebec vehicle purchase and leasing portal" [ref=f14e116] [cursor=pointer]:
+          - /url: https://www.quebec.ca/en/transports/purchase-or-leasing-of-a-vehicle
+    - generic [ref=f14e117]:
+      - generic [ref=f14e118]: AutoCheck QC / Built for Quebec buyers
+      - generic [ref=f14e119]: Preview environment - payments and live report delivery are not enabled.

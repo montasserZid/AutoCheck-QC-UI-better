@@ -1,0 +1,87 @@
+- generic [active] [ref=f518e1]:
+  - banner [ref=f518e2]:
+    - link "Skip to content" [ref=f518e3] [cursor=pointer]:
+      - /url: "#main-content"
+    - generic [ref=f518e4]:
+      - link "AutoCheck QC home" [ref=f518e5] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f518e10]:
+          - strong [ref=f518e11]: AutoCheck QC
+          - generic [ref=f518e12]: Know more. Buy better.
+      - navigation "Primary navigation" [ref=f518e13]:
+        - link "Example Report" [ref=f518e14] [cursor=pointer]:
+          - /url: /example-report
+        - link "Pricing" [ref=f518e15] [cursor=pointer]:
+          - /url: /pricing
+        - link "FAQ" [ref=f518e16] [cursor=pointer]:
+          - /url: /faq
+        - link "Contact" [ref=f518e17] [cursor=pointer]:
+          - /url: /contact
+      - link "Check This Car" [ref=f518e19] [cursor=pointer]:
+        - /url: /check
+  - main [ref=f518e24]:
+    - generic [ref=f518e26]:
+      - generic [ref=f518e27]:
+        - generic [ref=f518e28]: AUTOCHECK / QC
+        - generic [ref=f518e29]: 01 — THE LISTING
+      - generic [ref=f518e30]:
+        - heading "Start with the listing." [level=1] [ref=f518e31]
+        - paragraph [ref=f518e32]: A public link or the seller’s description is enough.
+      - generic [ref=f518e33]:
+        - generic "Listing input method" [ref=f518e34]:
+          - button "Listing link" [pressed] [ref=f518e35] [cursor=pointer]
+          - button "Ad text" [ref=f518e39] [cursor=pointer]
+        - generic [ref=f518e44]:
+          - generic [ref=f518e45]: Public listing URL
+          - textbox "Public listing URL" [ref=f518e46]:
+            - /placeholder: Paste the listing link here
+          - generic [ref=f518e47]: Marketplace · Kijiji · AutoTrader · other public listings
+        - button "Read Listing" [disabled] [ref=f518e52]
+        - generic "Other ways to add a vehicle" [ref=f518e55]:
+          - button "Enter manually" [ref=f518e56] [cursor=pointer]
+          - generic [aria-hidden] [ref=f518e59]: /
+          - button "Use screenshots" [ref=f518e60] [cursor=pointer]
+        - paragraph [ref=f518e65]: No account needed. Leave personal information out of the listing.
+      - generic [ref=f518e66]:
+        - generic [ref=f518e67]: AC
+        - paragraph [ref=f518e68]:
+          - text: A clearer starting point.
+          - strong [ref=f518e69]: Before the professional inspection.
+  - contentinfo [ref=f518e70]:
+    - generic [ref=f518e71]:
+      - generic [ref=f518e72]:
+        - paragraph [ref=f518e73]: The buyer’s vehicle dossier
+        - heading "Know more. Buy better." [level=2] [ref=f518e74]
+        - paragraph [ref=f518e75]: AutoCheck QC · Made for the questions before the keys.
+        - paragraph [ref=f518e76]: A listing pre-screen does not replace an independent mechanical inspection. Seller claims, vehicle history and actual condition must be verified before buying.
+      - generic [ref=f518e77]:
+        - heading "Product" [level=3] [ref=f518e78]
+        - link "Check a Car" [ref=f518e79] [cursor=pointer]:
+          - /url: /check
+        - link "Prepare an Inspection" [ref=f518e80] [cursor=pointer]:
+          - /url: /inspection
+        - link "Example Report" [ref=f518e81] [cursor=pointer]:
+          - /url: /example-report
+        - link "Pricing" [ref=f518e82] [cursor=pointer]:
+          - /url: /pricing
+      - generic [ref=f518e83]:
+        - heading "Company" [level=3] [ref=f518e84]
+        - link "FAQ" [ref=f518e85] [cursor=pointer]:
+          - /url: /faq
+        - link "Privacy" [ref=f518e86] [cursor=pointer]:
+          - /url: /privacy
+        - link "Terms" [ref=f518e87] [cursor=pointer]:
+          - /url: /terms
+        - link "Contact" [ref=f518e88] [cursor=pointer]:
+          - /url: /contact
+      - generic [ref=f518e89]:
+        - heading "Official buyer resources" [level=3] [ref=f518e90]
+        - link "SAAQ vehicle transfer guidance" [ref=f518e91] [cursor=pointer]:
+          - /url: https://saaq.gouv.qc.ca/en/vehicle-registration/registering-vehicle/automobile-motor-home/passenger-vehicle-between-individuals
+        - link "Quebec consumer protection for used cars" [ref=f518e92] [cursor=pointer]:
+          - /url: https://www.opc.gouv.qc.ca/en/consumer/topic/warranties/automobile/used-car
+        - link "Quebec vehicle purchase and leasing portal" [ref=f518e93] [cursor=pointer]:
+          - /url: https://www.quebec.ca/en/transports/purchase-or-leasing-of-a-vehicle
+    - generic [ref=f518e94]:
+      - generic [ref=f518e95]: AutoCheck QC / Built for Quebec buyers
+      - generic [ref=f518e96]: Preview environment - payments and live report delivery are not enabled.

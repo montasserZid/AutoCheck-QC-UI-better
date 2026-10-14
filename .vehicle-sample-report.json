@@ -1,0 +1,82 @@
+[
+  {
+    "relative": ".vehicle-sample-input/bmw/suv.webp",
+    "status": "processed",
+    "original_size": [
+      768,
+      512
+    ],
+    "output_size": [
+      768,
+      512
+    ],
+    "foreground_ratio": 0.4544270833333333,
+    "transparent_ratio": 0.5455780029296875,
+    "strong_pixels_kept": 1.0,
+    "reason": ""
+  },
+  {
+    "relative": ".vehicle-sample-input/chevrolet/pickup.webp",
+    "status": "processed",
+    "original_size": [
+      768,
+      512
+    ],
+    "output_size": [
+      768,
+      512
+    ],
+    "foreground_ratio": 0.42259470621744794,
+    "transparent_ratio": 0.5774078369140625,
+    "strong_pixels_kept": 1.0,
+    "reason": ""
+  },
+  {
+    "relative": ".vehicle-sample-input/ford/van.webp",
+    "status": "processed",
+    "original_size": [
+      768,
+      512
+    ],
+    "output_size": [
+      768,
+      512
+    ],
+    "foreground_ratio": 0.5720647176106771,
+    "transparent_ratio": 0.4279429117838542,
+    "strong_pixels_kept": 1.0,
+    "reason": ""
+  },
+  {
+    "relative": ".vehicle-sample-input/honda/civic.webp",
+    "status": "processed",
+    "original_size": [
+      768,
+      512
+    ],
+    "output_size": [
+      768,
+      512
+    ],
+    "foreground_ratio": 0.3621012369791667,
+    "transparent_ratio": 0.6378987630208334,
+    "strong_pixels_kept": 1.0,
+    "reason": ""
+  },
+  {
+    "relative": ".vehicle-sample-input/toyota/corolla.webp",
+    "status": "processed",
+    "original_size": [
+      768,
+      512
+    ],
+    "output_size": [
+      768,
+      512
+    ],
+    "foreground_ratio": 0.3655548095703125,
+    "transparent_ratio": 0.6344451904296875,
+    "strong_pixels_kept": 1.0,
+    "reason": ""
+  }
+]

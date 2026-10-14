@@ -1,0 +1,18 @@
+[     513ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://aimoove.fr/analyse:0
+[     854ms] [ERROR] Access to fetch at 'https://ipapi.co/json/' from origin 'https://aimoove.fr' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://aimoove.fr/:0
+[     855ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://ipapi.co/json/:0
+[     855ms] [WARNING] [geoLocationService] Fournisseur indisponible (https://ipapi.co/json/) TypeError: Failed to fetch
+    at xk (https://aimoove.fr/assets/index-D3ZS7cKw.js:68:20949)
+    at https://aimoove.fr/assets/index-D3ZS7cKw.js:68:21128
+    at Go (https://aimoove.fr/assets/index-D3ZS7cKw.js:68:21243)
+    at https://aimoove.fr/assets/index-D3ZS7cKw.js:273:97908
+    at es (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:92963)
+    at dm (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:108222)
+    at mt (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:108106)
+    at dm (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:108988)
+    at mt (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:108106)
+    at dm (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:108202) @ https://eu-assets.i.posthog.com/static/1.438.2/posthog-recorder.js:0
+[    2633ms] [WARNING] The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width. @ https://eu-assets.i.posthog.com/static/1.438.2/posthog-recorder.js:0

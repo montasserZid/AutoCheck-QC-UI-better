@@ -1,0 +1,61 @@
+[     531ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://aimoove.fr/analyse:0
+[    7937ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://aimoove.fr/analyse:0
+[    9190ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://aimoove.fr/analyse:0
+[   10454ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://aimoove.fr/analyse:0
+[   47277ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://aimoove.fr/analyse:0
+[   48756ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://aimoove.fr/analyse:0
+[   50350ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://aimoove.fr/analyse:0
+[   51826ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://aimoove.fr/analyse:0
+[   62008ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://aimoove.fr/tarifs:0
+[   63266ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_RESPONSE.NotSameOrigin @ https://www.economie.gouv.fr/files/styles/image_contenu_article_espace/public/files/directions_services/dgccrf/imgs/fiches_pratiques/2020/controle-technique.jpg?itok=HTqDyIEU:0
+[   63366ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://aimoove.fr/blog:0
+[   64450ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://aimoove.fr/a-propos:0
+[   65564ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://aimoove.fr/faq:0
+[   66459ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://aimoove.fr/src/components/ressources/landing/pro/background_pro.png:0
+[   66494ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://aimoove.fr/pro:0
+[   66635ms] [ERROR] Access to fetch at 'https://ipapi.co/json/' from origin 'https://aimoove.fr' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://aimoove.fr/pro:0
+[   66635ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://ipapi.co/json/:0
+[   66636ms] [WARNING] [geoLocationService] Fournisseur indisponible (https://ipapi.co/json/) TypeError: Failed to fetch
+    at xk (https://aimoove.fr/assets/index-D3ZS7cKw.js:68:20949)
+    at https://aimoove.fr/assets/index-D3ZS7cKw.js:68:21128
+    at Go (https://aimoove.fr/assets/index-D3ZS7cKw.js:68:21243)
+    at https://aimoove.fr/assets/index-D3ZS7cKw.js:420:16195
+    at es (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:92963)
+    at Gc (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:109168)
+    at Gc (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:109416)
+    at Gc (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:109154)
+    at dm (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:108862)
+    at mt (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:108106) @ https://eu-assets.i.posthog.com/static/1.438.2/posthog-recorder.js:0
+[   66712ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://aimoove.fr/src/components/ressources/landing/pro/background_pro.png:0
+[   67595ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://aimoove.fr/mentions-legales:0
+[   68667ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://aimoove.fr/confidentialite:0
+[   69756ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://aimoove.fr/conditions-generales:0
+[   75664ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://aimoove.fr/tarifs:0
+[   77132ms] [WARNING] The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width. @ https://eu-assets.i.posthog.com/static/1.438.2/posthog-recorder.js:0
+[   78238ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://aimoove.fr/tarifs:0
+[   79613ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://aimoove.fr/tarifs:0
+[   81023ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://aimoove.fr/tarifs:0
+[   82446ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://aimoove.fr/tarifs:0
+[   89421ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://aimoove.fr/faq:0
+[   90483ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://aimoove.fr/faq:0
+[   91882ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://aimoove.fr/faq:0
+[   96944ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://aimoove.fr/faq:0
+[   97161ms] [ERROR] Access to fetch at 'https://ipapi.co/json/' from origin 'https://aimoove.fr' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://aimoove.fr/:0
+[   97161ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://ipapi.co/json/:0
+[   97161ms] [WARNING] [geoLocationService] Fournisseur indisponible (https://ipapi.co/json/) TypeError: Failed to fetch
+    at xk (https://aimoove.fr/assets/index-D3ZS7cKw.js:68:20949)
+    at https://aimoove.fr/assets/index-D3ZS7cKw.js:68:21128
+    at Go (https://aimoove.fr/assets/index-D3ZS7cKw.js:68:21243)
+    at https://aimoove.fr/assets/index-D3ZS7cKw.js:273:97908
+    at es (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:92963)
+    at Gc (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:109168)
+    at Gc (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:109416)
+    at Gc (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:109154)
+    at dm (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:108862)
+    at mt (https://aimoove.fr/assets/index-D3ZS7cKw.js:25:108106) @ https://eu-assets.i.posthog.com/static/1.438.2/posthog-recorder.js:0
+[   99249ms] [WARNING] Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://www.google.com') does not match the recipient window's origin ('https://aimoove.fr'). @ https://www.googletagmanager.com/gtag/js?id=G-43F2VW2TN7:1026
+[   99249ms] [WARNING] Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://www.youtube.com') does not match the recipient window's origin ('https://aimoove.fr'). @ https://www.googletagmanager.com/gtag/js?id=G-43F2VW2TN7:1026
+[   99249ms] [WARNING] Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://m.youtube.com') does not match the recipient window's origin ('https://aimoove.fr'). @ https://www.googletagmanager.com/gtag/js?id=G-43F2VW2TN7:1026

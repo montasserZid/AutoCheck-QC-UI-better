@@ -1,0 +1,1937 @@
+[
+  {
+    "brand": "byd",
+    "model": "Atto 3",
+    "modelSlug": "atto-3",
+    "year": null,
+    "img": "images/byd/atto-3.webp"
+  },
+  {
+    "brand": "byd",
+    "model": "Dolphin",
+    "modelSlug": "dolphin",
+    "year": null,
+    "img": "images/byd/dolphin.webp"
+  },
+  {
+    "brand": "byd",
+    "model": "Han",
+    "modelSlug": "han",
+    "year": null,
+    "img": "images/byd/han.webp"
+  },
+  {
+    "brand": "byd",
+    "model": "Seal",
+    "modelSlug": "seal",
+    "year": null,
+    "img": "images/byd/seal.webp"
+  },
+  {
+    "brand": "chevrolet",
+    "model": "Equinox",
+    "modelSlug": "equinox",
+    "year": null,
+    "img": "images/chevrolet/equinox.webp"
+  },
+  {
+    "brand": "chevrolet",
+    "model": "Onix",
+    "modelSlug": "onix",
+    "year": null,
+    "img": "images/chevrolet/onix.webp"
+  },
+  {
+    "brand": "chevrolet",
+    "model": "Silverado 1500",
+    "modelSlug": "silverado-1500",
+    "year": null,
+    "img": "images/chevrolet/silverado-1500.webp"
+  },
+  {
+    "brand": "chevrolet",
+    "model": "Trax",
+    "modelSlug": "trax",
+    "year": null,
+    "img": "images/chevrolet/trax.webp"
+  },
+  {
+    "brand": "citroen",
+    "model": "C3",
+    "modelSlug": "c3",
+    "year": null,
+    "img": "images/citroen/c3.webp"
+  },
+  {
+    "brand": "citroen",
+    "model": "C4",
+    "modelSlug": "c4",
+    "year": null,
+    "img": "images/citroen/c4.webp"
+  },
+  {
+    "brand": "citroen",
+    "model": "C5 Aircross",
+    "modelSlug": "c5-aircross",
+    "year": null,
+    "img": "images/citroen/c5-aircross.webp"
+  },
+  {
+    "brand": "dacia",
+    "model": "Duster",
+    "modelSlug": "duster",
+    "year": null,
+    "img": "images/dacia/duster.webp"
+  },
+  {
+    "brand": "dacia",
+    "model": "Jogger",
+    "modelSlug": "jogger",
+    "year": null,
+    "img": "images/dacia/jogger.webp"
+  },
+  {
+    "brand": "dacia",
+    "model": "Sandero",
+    "modelSlug": "sandero",
+    "year": null,
+    "img": "images/dacia/sandero.webp"
+  },
+  {
+    "brand": "dacia",
+    "model": "Spring",
+    "modelSlug": "spring",
+    "year": null,
+    "img": "images/dacia/spring.webp"
+  },
+  {
+    "brand": "fiat",
+    "model": "500",
+    "modelSlug": "500",
+    "year": null,
+    "img": "images/fiat/500.webp"
+  },
+  {
+    "brand": "fiat",
+    "model": "Panda",
+    "modelSlug": "panda",
+    "year": null,
+    "img": "images/fiat/panda.webp"
+  },
+  {
+    "brand": "fiat",
+    "model": "Tipo",
+    "modelSlug": "tipo",
+    "year": null,
+    "img": "images/fiat/tipo.webp"
+  },
+  {
+    "brand": "ford",
+    "model": "Explorer",
+    "modelSlug": "explorer",
+    "year": null,
+    "img": "images/ford/explorer.webp"
+  },
+  {
+    "brand": "ford",
+    "model": "Fiesta",
+    "modelSlug": "fiesta",
+    "year": null,
+    "img": "images/ford/fiesta.webp"
+  },
+  {
+    "brand": "ford",
+    "model": "Focus",
+    "modelSlug": "focus",
+    "year": null,
+    "img": "images/ford/focus.webp"
+  },
+  {
+    "brand": "ford",
+    "model": "Kuga",
+    "modelSlug": "kuga",
+    "year": null,
+    "img": "images/ford/kuga.webp"
+  },
+  {
+    "brand": "ford",
+    "model": "Mustang",
+    "modelSlug": "mustang",
+    "year": null,
+    "img": "images/ford/mustang.webp"
+  },
+  {
+    "brand": "ford",
+    "model": "Puma",
+    "modelSlug": "puma",
+    "year": null,
+    "img": "images/ford/puma.webp"
+  },
+  {
+    "brand": "ford",
+    "model": "Ranger",
+    "modelSlug": "ranger",
+    "year": null,
+    "img": "images/ford/ranger.webp"
+  },
+  {
+    "brand": "honda",
+    "model": "Accord",
+    "modelSlug": "accord",
+    "year": null,
+    "img": "images/honda/accord.webp"
+  },
+  {
+    "brand": "honda",
+    "model": "Civic",
+    "modelSlug": "civic",
+    "year": null,
+    "img": "images/honda/civic.webp"
+  },
+  {
+    "brand": "honda",
+    "model": "CR-V",
+    "modelSlug": "cr-v",
+    "year": null,
+    "img": "images/honda/cr-v.webp"
+  },
+  {
+    "brand": "honda",
+    "model": "HR-V",
+    "modelSlug": "hr-v",
+    "year": null,
+    "img": "images/honda/hr-v.webp"
+  },
+  {
+    "brand": "honda",
+    "model": "Jazz",
+    "modelSlug": "jazz",
+    "year": null,
+    "img": "images/honda/jazz.webp"
+  },
+  {
+    "brand": "hyundai",
+    "model": "Bayon",
+    "modelSlug": "bayon",
+    "year": null,
+    "img": "images/hyundai/bayon.webp"
+  },
+  {
+    "brand": "hyundai",
+    "model": "Elantra",
+    "modelSlug": "elantra",
+    "year": null,
+    "img": "images/hyundai/elantra.webp"
+  },
+  {
+    "brand": "hyundai",
+    "model": "i10",
+    "modelSlug": "i10",
+    "year": null,
+    "img": "images/hyundai/i10.webp"
+  },
+  {
+    "brand": "hyundai",
+    "model": "i20",
+    "modelSlug": "i20",
+    "year": null,
+    "img": "images/hyundai/i20.webp"
+  },
+  {
+    "brand": "hyundai",
+    "model": "i30",
+    "modelSlug": "i30",
+    "year": null,
+    "img": "images/hyundai/i30.webp"
+  },
+  {
+    "brand": "hyundai",
+    "model": "Kona",
+    "modelSlug": "kona",
+    "year": null,
+    "img": "images/hyundai/kona.webp"
+  },
+  {
+    "brand": "hyundai",
+    "model": "Santa Fe",
+    "modelSlug": "santa-fe",
+    "year": null,
+    "img": "images/hyundai/santa-fe.webp"
+  },
+  {
+    "brand": "hyundai",
+    "model": "Tucson",
+    "modelSlug": "tucson",
+    "year": null,
+    "img": "images/hyundai/tucson.webp"
+  },
+  {
+    "brand": "jeep",
+    "model": "Compass",
+    "modelSlug": "compass",
+    "year": null,
+    "img": "images/jeep/compass.webp"
+  },
+  {
+    "brand": "jeep",
+    "model": "Grand Cherokee",
+    "modelSlug": "grand-cherokee",
+    "year": null,
+    "img": "images/jeep/grand-cherokee.webp"
+  },
+  {
+    "brand": "jeep",
+    "model": "Renegade",
+    "modelSlug": "renegade",
+    "year": null,
+    "img": "images/jeep/renegade.webp"
+  },
+  {
+    "brand": "jeep",
+    "model": "Wrangler",
+    "modelSlug": "wrangler",
+    "year": null,
+    "img": "images/jeep/wrangler.webp"
+  },
+  {
+    "brand": "kia",
+    "model": "Cee'd",
+    "modelSlug": "cee-d",
+    "year": null,
+    "img": "images/kia/cee-d.webp"
+  },
+  {
+    "brand": "kia",
+    "model": "Niro",
+    "modelSlug": "niro",
+    "year": null,
+    "img": "images/kia/niro.webp"
+  },
+  {
+    "brand": "kia",
+    "model": "Picanto",
+    "modelSlug": "picanto",
+    "year": null,
+    "img": "images/kia/picanto.webp"
+  },
+  {
+    "brand": "kia",
+    "model": "Rio",
+    "modelSlug": "rio",
+    "year": null,
+    "img": "images/kia/rio.webp"
+  },
+  {
+    "brand": "kia",
+    "model": "Seltos",
+    "modelSlug": "seltos",
+    "year": null,
+    "img": "images/kia/seltos.webp"
+  },
+  {
+    "brand": "kia",
+    "model": "Sorento",
+    "modelSlug": "sorento",
+    "year": null,
+    "img": "images/kia/sorento.webp"
+  },
+  {
+    "brand": "kia",
+    "model": "Sportage",
+    "modelSlug": "sportage",
+    "year": null,
+    "img": "images/kia/sportage.webp"
+  },
+  {
+    "brand": "kia",
+    "model": "Stonic",
+    "modelSlug": "stonic",
+    "year": null,
+    "img": "images/kia/stonic.webp"
+  },
+  {
+    "brand": "mazda",
+    "model": "3",
+    "modelSlug": "3",
+    "year": null,
+    "img": "images/mazda/3.webp"
+  },
+  {
+    "brand": "mazda",
+    "model": "CX-30",
+    "modelSlug": "cx-30",
+    "year": null,
+    "img": "images/mazda/cx-30.webp"
+  },
+  {
+    "brand": "mazda",
+    "model": "CX-5",
+    "modelSlug": "cx-5",
+    "year": null,
+    "img": "images/mazda/cx-5.webp"
+  },
+  {
+    "brand": "mazda",
+    "model": "CX-60",
+    "modelSlug": "cx-60",
+    "year": null,
+    "img": "images/mazda/cx-60.webp"
+  },
+  {
+    "brand": "mazda",
+    "model": "MX-5",
+    "modelSlug": "mx-5",
+    "year": null,
+    "img": "images/mazda/mx-5.webp"
+  },
+  {
+    "brand": "mg",
+    "model": "ZS",
+    "modelSlug": "zs",
+    "year": null,
+    "img": "images/mg/zs.webp"
+  },
+  {
+    "brand": "nissan",
+    "model": "Juke",
+    "modelSlug": "juke",
+    "year": null,
+    "img": "images/nissan/juke.webp"
+  },
+  {
+    "brand": "nissan",
+    "model": "Leaf",
+    "modelSlug": "leaf",
+    "year": null,
+    "img": "images/nissan/leaf.webp"
+  },
+  {
+    "brand": "nissan",
+    "model": "Micra",
+    "modelSlug": "micra",
+    "year": null,
+    "img": "images/nissan/micra.webp"
+  },
+  {
+    "brand": "nissan",
+    "model": "Qashqai",
+    "modelSlug": "qashqai",
+    "year": null,
+    "img": "images/nissan/qashqai.webp"
+  },
+  {
+    "brand": "nissan",
+    "model": "X-Trail",
+    "modelSlug": "x-trail",
+    "year": null,
+    "img": "images/nissan/x-trail.webp"
+  },
+  {
+    "brand": "peugeot",
+    "model": "2008",
+    "modelSlug": "2008",
+    "year": null,
+    "img": "images/peugeot/2008.webp"
+  },
+  {
+    "brand": "peugeot",
+    "model": "208",
+    "modelSlug": "208",
+    "year": null,
+    "img": "images/peugeot/208.webp"
+  },
+  {
+    "brand": "peugeot",
+    "model": "3008",
+    "modelSlug": "3008",
+    "year": null,
+    "img": "images/peugeot/3008.webp"
+  },
+  {
+    "brand": "peugeot",
+    "model": "308",
+    "modelSlug": "308",
+    "year": null,
+    "img": "images/peugeot/308.webp"
+  },
+  {
+    "brand": "peugeot",
+    "model": "5008",
+    "modelSlug": "5008",
+    "year": null,
+    "img": "images/peugeot/5008.webp"
+  },
+  {
+    "brand": "polestar",
+    "model": "1",
+    "modelSlug": "1",
+    "year": null,
+    "img": "images/polestar/1.webp"
+  },
+  {
+    "brand": "polestar",
+    "model": "2",
+    "modelSlug": "2",
+    "year": null,
+    "img": "images/polestar/2.webp"
+  },
+  {
+    "brand": "polestar",
+    "model": "3",
+    "modelSlug": "3",
+    "year": null,
+    "img": "images/polestar/3.webp"
+  },
+  {
+    "brand": "polestar",
+    "model": "4",
+    "modelSlug": "4",
+    "year": null,
+    "img": "images/polestar/4.webp"
+  },
+  {
+    "brand": "polestar",
+    "model": "5",
+    "modelSlug": "5",
+    "year": null,
+    "img": "images/polestar/5.webp"
+  },
+  {
+    "brand": "porsche",
+    "model": "911",
+    "modelSlug": "911",
+    "year": null,
+    "img": "images/porsche/911.webp"
+  },
+  {
+    "brand": "renault",
+    "model": "Arkana",
+    "modelSlug": "arkana",
+    "year": null,
+    "img": "images/renault/arkana.webp"
+  },
+  {
+    "brand": "renault",
+    "model": "Austral",
+    "modelSlug": "austral",
+    "year": null,
+    "img": "images/renault/austral.webp"
+  },
+  {
+    "brand": "renault",
+    "model": "Captur",
+    "modelSlug": "captur",
+    "year": null,
+    "img": "images/renault/captur.webp"
+  },
+  {
+    "brand": "renault",
+    "model": "Clio",
+    "modelSlug": "clio",
+    "year": null,
+    "img": "images/renault/clio.webp"
+  },
+  {
+    "brand": "renault",
+    "model": "Megane",
+    "modelSlug": "megane",
+    "year": null,
+    "img": "images/renault/megane.webp"
+  },
+  {
+    "brand": "seat",
+    "model": "Arona",
+    "modelSlug": "arona",
+    "year": null,
+    "img": "images/seat/arona.webp"
+  },
+  {
+    "brand": "seat",
+    "model": "Ibiza",
+    "modelSlug": "ibiza",
+    "year": null,
+    "img": "images/seat/ibiza.webp"
+  },
+  {
+    "brand": "skoda",
+    "model": "Kamiq",
+    "modelSlug": "kamiq",
+    "year": null,
+    "img": "images/skoda/kamiq.webp"
+  },
+  {
+    "brand": "skoda",
+    "model": "Octavia",
+    "modelSlug": "octavia",
+    "year": null,
+    "img": "images/skoda/octavia.webp"
+  },
+  {
+    "brand": "subaru",
+    "model": "Forester",
+    "modelSlug": "forester",
+    "year": null,
+    "img": "images/subaru/forester.webp"
+  },
+  {
+    "brand": "subaru",
+    "model": "Outback",
+    "modelSlug": "outback",
+    "year": null,
+    "img": "images/subaru/outback.webp"
+  },
+  {
+    "brand": "suzuki",
+    "model": "Jimny",
+    "modelSlug": "jimny",
+    "year": null,
+    "img": "images/suzuki/jimny.webp"
+  },
+  {
+    "brand": "suzuki",
+    "model": "Swift",
+    "modelSlug": "swift",
+    "year": null,
+    "img": "images/suzuki/swift.webp"
+  },
+  {
+    "brand": "suzuki",
+    "model": "SX4 S-Cross",
+    "modelSlug": "sx4-s-cross",
+    "year": null,
+    "img": "images/suzuki/sx4-s-cross.webp"
+  },
+  {
+    "brand": "suzuki",
+    "model": "Vitara",
+    "modelSlug": "vitara",
+    "year": null,
+    "img": "images/suzuki/vitara.webp"
+  },
+  {
+    "brand": "tesla",
+    "model": "Cybercab",
+    "modelSlug": "cybercab",
+    "year": null,
+    "img": "images/tesla/cybercab.webp"
+  },
+  {
+    "brand": "tesla",
+    "model": "Cybertruck",
+    "modelSlug": "cybertruck",
+    "year": null,
+    "img": "images/tesla/cybertruck.webp"
+  },
+  {
+    "brand": "tesla",
+    "model": "Model 3",
+    "modelSlug": "model-3",
+    "year": null,
+    "img": "images/tesla/model-3.webp"
+  },
+  {
+    "brand": "tesla",
+    "model": "Model S",
+    "modelSlug": "model-s",
+    "year": null,
+    "img": "images/tesla/model-s.webp"
+  },
+  {
+    "brand": "tesla",
+    "model": "Model X",
+    "modelSlug": "model-x",
+    "year": null,
+    "img": "images/tesla/model-x.webp"
+  },
+  {
+    "brand": "tesla",
+    "model": "Model Y",
+    "modelSlug": "model-y",
+    "year": null,
+    "img": "images/tesla/model-y.webp"
+  },
+  {
+    "brand": "tesla",
+    "model": "Roadster",
+    "modelSlug": "roadster",
+    "year": null,
+    "img": "images/tesla/roadster.webp"
+  },
+  {
+    "brand": "toyota",
+    "model": "Aygo",
+    "modelSlug": "aygo",
+    "year": null,
+    "img": "images/toyota/aygo.webp"
+  },
+  {
+    "brand": "toyota",
+    "model": "C-HR+",
+    "modelSlug": "c-hr",
+    "year": null,
+    "img": "images/toyota/c-hr.webp"
+  },
+  {
+    "brand": "toyota",
+    "model": "Camry",
+    "modelSlug": "camry",
+    "year": null,
+    "img": "images/toyota/camry.webp"
+  },
+  {
+    "brand": "toyota",
+    "model": "Corolla",
+    "modelSlug": "corolla",
+    "year": null,
+    "img": "images/toyota/corolla.webp"
+  },
+  {
+    "brand": "toyota",
+    "model": "Highlander",
+    "modelSlug": "highlander",
+    "year": null,
+    "img": "images/toyota/highlander.webp"
+  },
+  {
+    "brand": "toyota",
+    "model": "Hilux",
+    "modelSlug": "hilux",
+    "year": null,
+    "img": "images/toyota/hilux.webp"
+  },
+  {
+    "brand": "toyota",
+    "model": "Land Cruiser",
+    "modelSlug": "land-cruiser",
+    "year": null,
+    "img": "images/toyota/land-cruiser.webp"
+  },
+  {
+    "brand": "toyota",
+    "model": "Prius",
+    "modelSlug": "prius",
+    "year": null,
+    "img": "images/toyota/prius.webp"
+  },
+  {
+    "brand": "toyota",
+    "model": "RAV4",
+    "modelSlug": "rav4",
+    "year": null,
+    "img": "images/toyota/rav4.webp"
+  },
+  {
+    "brand": "toyota",
+    "model": "Yaris",
+    "modelSlug": "yaris",
+    "year": null,
+    "img": "images/toyota/yaris.webp"
+  },
+  {
+    "brand": "toyota",
+    "model": "Yaris Cross",
+    "modelSlug": "yaris-cross",
+    "year": null,
+    "img": "images/toyota/yaris-cross.webp"
+  },
+  {
+    "brand": "volkswagen",
+    "model": "Golf",
+    "modelSlug": "golf",
+    "year": null,
+    "img": "images/volkswagen/golf.webp"
+  },
+  {
+    "brand": "volkswagen",
+    "model": "ID.4",
+    "modelSlug": "id-4",
+    "year": null,
+    "img": "images/volkswagen/id-4.webp"
+  },
+  {
+    "brand": "volkswagen",
+    "model": "Jetta",
+    "modelSlug": "jetta",
+    "year": null,
+    "img": "images/volkswagen/jetta.webp"
+  },
+  {
+    "brand": "volkswagen",
+    "model": "Passat",
+    "modelSlug": "passat",
+    "year": null,
+    "img": "images/volkswagen/passat.webp"
+  },
+  {
+    "brand": "volkswagen",
+    "model": "Polo",
+    "modelSlug": "polo",
+    "year": null,
+    "img": "images/volkswagen/polo.webp"
+  },
+  {
+    "brand": "volkswagen",
+    "model": "T-Cross",
+    "modelSlug": "t-cross",
+    "year": null,
+    "img": "images/volkswagen/t-cross.webp"
+  },
+  {
+    "brand": "volkswagen",
+    "model": "T-Roc",
+    "modelSlug": "t-roc",
+    "year": null,
+    "img": "images/volkswagen/t-roc.webp"
+  },
+  {
+    "brand": "volkswagen",
+    "model": "Tiguan",
+    "modelSlug": "tiguan",
+    "year": null,
+    "img": "images/volkswagen/tiguan.webp"
+  },
+  {
+    "brand": "acura",
+    "model": null,
+    "modelSlug": "sedan",
+    "bodyType": "sedan",
+    "year": null,
+    "img": "images/acura/sedan.webp"
+  },
+  {
+    "brand": "acura",
+    "model": null,
+    "modelSlug": "suv",
+    "bodyType": "suv",
+    "year": null,
+    "img": "images/acura/suv.webp"
+  },
+  {
+    "brand": "audi",
+    "model": null,
+    "modelSlug": "convertible",
+    "bodyType": "convertible",
+    "year": null,
+    "img": "images/audi/convertible.webp"
+  },
+  {
+    "brand": "audi",
+    "model": null,
+    "modelSlug": "coupe",
+    "bodyType": "coupe",
+    "year": null,
+    "img": "images/audi/coupe.webp"
+  },
+  {
+    "brand": "audi",
+    "model": null,
+    "modelSlug": "sedan",
+    "bodyType": "sedan",
+    "year": null,
+    "img": "images/audi/sedan.webp"
+  },
+  {
+    "brand": "audi",
+    "model": null,
+    "modelSlug": "suv",
+    "bodyType": "suv",
+    "year": null,
+    "img": "images/audi/suv.webp"
+  },
+  {
+    "brand": "bmw",
+    "model": null,
+    "modelSlug": "convertible",
+    "bodyType": "convertible",
+    "year": null,
+    "img": "images/bmw/convertible.webp"
+  },
+  {
+    "brand": "bmw",
+    "model": null,
+    "modelSlug": "coupe",
+    "bodyType": "coupe",
+    "year": null,
+    "img": "images/bmw/coupe.webp"
+  },
+  {
+    "brand": "bmw",
+    "model": null,
+    "modelSlug": "sedan",
+    "bodyType": "sedan",
+    "year": null,
+    "img": "images/bmw/sedan.webp"
+  },
+  {
+    "brand": "bmw",
+    "model": null,
+    "modelSlug": "suv",
+    "bodyType": "suv",
+    "year": null,
+    "img": "images/bmw/suv.webp"
+  },
+  {
+    "brand": "buick",
+    "model": null,
+    "modelSlug": "sedan",
+    "bodyType": "sedan",
+    "year": null,
+    "img": "images/buick/sedan.webp"
+  },
+  {
+    "brand": "buick",
+    "model": null,
+    "modelSlug": "suv",
+    "bodyType": "suv",
+    "year": null,
+    "img": "images/buick/suv.webp"
+  },
+  {
+    "brand": "byd",
+    "model": null,
+    "modelSlug": "hatchback",
+    "bodyType": "hatchback",
+    "year": null,
+    "img": "images/byd/hatchback.webp"
+  },
+  {
+    "brand": "byd",
+    "model": null,
+    "modelSlug": "sedan",
+    "bodyType": "sedan",
+    "year": null,
+    "img": "images/byd/sedan.webp"
+  },
+  {
+    "brand": "byd",
+    "model": null,
+    "modelSlug": "suv",
+    "bodyType": "suv",
+    "year": null,
+    "img": "images/byd/suv.webp"
+  },
+  {
+    "brand": "cadillac",
+    "model": null,
+    "modelSlug": "sedan",
+    "bodyType": "sedan",
+    "year": null,
+    "img": "images/cadillac/sedan.webp"
+  },
+  {
+    "brand": "cadillac",
+    "model": null,
+    "modelSlug": "suv",
+    "bodyType": "suv",
+    "year": null,
+    "img": "images/cadillac/suv.webp"
+  },
+  {
+    "brand": "chevrolet",
+    "model": null,
+    "modelSlug": "pickup",
+    "bodyType": "pickup",
+    "year": null,
+    "img": "images/chevrolet/pickup.webp"
+  },
+  {
+    "brand": "chevrolet",
+    "model": null,
+    "modelSlug": "sedan",
+    "bodyType": "sedan",
+    "year": null,
+    "img": "images/chevrolet/sedan.webp"
+  },
+  {
+    "brand": "chevrolet",
+    "model": null,
+    "modelSlug": "suv",
+    "bodyType": "suv",
+    "year": null,
+    "img": "images/chevrolet/suv.webp"
+  },
+  {
+    "brand": "chrysler",
+    "model": null,
+    "modelSlug": "minivan",
+    "bodyType": "minivan",
+    "year": null,
+    "img": "images/chrysler/minivan.webp"
+  },
+  {
+    "brand": "chrysler",
+    "model": null,
+    "modelSlug": "sedan",
+    "bodyType": "sedan",
+    "year": null,
+    "img": "images/chrysler/sedan.webp"
+  },
+  {
+    "brand": "citroen",
+    "model": null,
+    "modelSlug": "hatchback",
+    "bodyType": "hatchback",
+    "year": null,
+    "img": "images/citroen/hatchback.webp"
+  },
+  {
+    "brand": "citroen",
+    "model": null,
+    "modelSlug": "suv",
+    "bodyType": "suv",
+    "year": null,
+    "img": "images/citroen/suv.webp"
+  },
+  {
+    "brand": "dacia",
+    "model": null,
+    "modelSlug": "hatchback",
+    "bodyType": "hatchback",
+    "year": null,
+    "img": "images/dacia/hatchback.webp"
+  },
+  {
+    "brand": "dacia",
+    "model": null,
+    "modelSlug": "suv",
+    "bodyType": "suv",
+    "year": null,
+    "img": "images/dacia/suv.webp"
+  },
+  {
+    "brand": "dacia",
+    "model": null,
+    "modelSlug": "wagon",
+    "bodyType": "wagon",
+    "year": null,
+    "img": "images/dacia/wagon.webp"
+  },
+  {
+    "brand": "dodge",
+    "model": null,
+    "modelSlug": "coupe",
+    "bodyType": "coupe",
+    "year": null,
+    "img": "images/dodge/coupe.webp"
+  },
+  {
+    "brand": "dodge",
+    "model": null,
+    "modelSlug": "sedan",
+    "bodyType": "sedan",
+    "year": null,
+    "img": "images/dodge/sedan.webp"
+  },
+  {
+    "brand": "dodge",
+    "model": null,
+    "modelSlug": "suv",
+    "bodyType": "suv",
+    "year": null,
+    "img": "images/dodge/suv.webp"
+  },
+  {
+    "brand": "fiat",
+    "model": null,
+    "modelSlug": "hatchback",
+    "bodyType": "hatchback",
+    "year": null,
+    "img": "images/fiat/hatchback.webp"
+  },
+  {
+    "brand": "fiat",
+    "model": null,
+    "modelSlug": "sedan",
+    "bodyType": "sedan",
+    "year": null,
+    "img": "images/fiat/sedan.webp"
+  },
+  {
+    "brand": "fiat",
+    "model": null,
+    "modelSlug": "suv",
+    "bodyType": "suv",
+    "year": null,
+    "img": "images/fiat/suv.webp"
+  },
+  {
+    "brand": "ford",
+    "model": null,
+    "modelSlug": "hatchback",
+    "bodyType": "hatchback",
+    "year": null,
+    "img": "images/ford/hatchback.webp"
+  },
+  {
+    "brand": "ford",
+    "model": null,
+    "modelSlug": "pickup",
+    "bodyType": "pickup",
+    "year": null,
+    "img": "images/ford/pickup.webp"
+  },
+  {
+    "brand": "ford",
+    "model": null,
+    "modelSlug": "sedan",
+    "bodyType": "sedan",
+    "year": null,
+    "img": "images/ford/sedan.webp"
+  },
+  {
+    "brand": "ford",
+    "model": null,
+    "modelSlug": "suv",
+    "bodyType": "suv",
+    "year": null,
+    "img": "images/ford/suv.webp"
+  },
+  {
+    "brand": "ford",
+    "model": null,
+    "modelSlug": "van",
+    "bodyType": "van",
+    "year": null,
+    "img": "images/ford/van.webp"
+  },
+  {
+    "brand": "gmc",
+    "model": null,
+    "modelSlug": "pickup",
+    "bodyType": "pickup",
+    "year": null,
+    "img": "images/gmc/pickup.webp"
+  },
+  {
+    "brand": "gmc",
+    "model": null,
+    "modelSlug": "suv",
+    "bodyType": "suv",
+    "year": null,
+    "img": "images/gmc/suv.webp"
+  },
+  {
+    "brand": "gmc",
+    "model": null,
+    "modelSlug": "van",
+    "bodyType": "van",
+    "year": null,
+    "img": "images/gmc/van.webp"
+  },
+  {
+    "brand": "honda",
+    "model": null,
+    "modelSlug": "hatchback",
+    "bodyType": "hatchback",
+    "year": null,
+    "img": "images/honda/hatchback.webp"
+  },
+  {
+    "brand": "honda",
+    "model": null,
+    "modelSlug": "minivan",
+    "bodyType": "minivan",
+    "year": null,
+    "img": "images/honda/minivan.webp"
+  },
+  {
+    "brand": "honda",
+    "model": null,
+    "modelSlug": "sedan",
+    "bodyType": "sedan",
+    "year": null,
+    "img": "images/honda/sedan.webp"
+  },
+  {
+    "brand": "honda",
+    "model": null,
+    "modelSlug": "suv",
+    "bodyType": "suv",
+    "year": null,
+    "img": "images/honda/suv.webp"
+  },
+  {
+    "brand": "hyundai",
+    "model": null,
+    "modelSlug": "hatchback",
+    "bodyType": "hatchback",
+    "year": null,
+    "img": "images/hyundai/hatchback.webp"
+  },
+  {
+    "brand": "hyundai",
+    "model": null,
+    "modelSlug": "sedan",
+    "bodyType": "sedan",
+    "year": null,
+    "img": "images/hyundai/sedan.webp"
+  },
+  {
+    "brand": "hyundai",
+    "model": null,
+    "modelSlug": "suv",
+    "bodyType": "suv",
+    "year": null,
+    "img": "images/hyundai/suv.webp"
+  },
+  {
+    "brand": "infiniti",
+    "model": null,
+    "modelSlug": "coupe",
+    "bodyType": "coupe",
+    "year": null,
+    "img": "images/infiniti/coupe.webp"
+  },
+  {
+    "brand": "infiniti",
+    "model": null,
+    "modelSlug": "sedan",
+    "bodyType": "sedan",
+    "year": null,
+    "img": "images/infiniti/sedan.webp"
+  },
+  {
+    "brand": "infiniti",
+    "model": null,
+    "modelSlug": "suv",
+    "bodyType": "suv",
+    "year": null,
+    "img": "images/infiniti/suv.webp"
+  },
+  {
+    "brand": "jeep",
+    "model": null,
+    "modelSlug": "pickup",
+    "bodyType": "pickup",
+    "year": null,
+    "img": "images/jeep/pickup.webp"
+  },
+  {
+    "brand": "jeep",
+    "model": null,
+    "modelSlug": "suv",
+    "bodyType": "suv",
+    "year": null,
+    "img": "images/jeep/suv.webp"
+  },
+  {
+    "brand": "kia",
+    "model": null,
+    "modelSlug": "hatchback",
+    "bodyType": "hatchback",
+    "year": null,
+    "img": "images/kia/hatchback.webp"
+  },
+  {
+    "brand": "kia",
+    "model": null,
+    "modelSlug": "minivan",
+    "bodyType": "minivan",
+    "year": null,
+    "img": "images/kia/minivan.webp"
+  },
+  {
+    "brand": "kia",
+    "model": null,
+    "modelSlug": "sedan",
+    "bodyType": "sedan",
+    "year": null,
+    "img": "images/kia/sedan.webp"
+  },
+  {
+    "brand": "kia",
+    "model": null,
+    "modelSlug": "suv",
+    "bodyType": "suv",
+    "year": null,
+    "img": "images/kia/suv.webp"
+  },
+  {
+    "brand": "lexus",
+    "model": null,
+    "modelSlug": "coupe",
+    "bodyType": "coupe",
+    "year": null,
+    "img": "images/lexus/coupe.webp"
+  },
+  {
+    "brand": "lexus",
+    "model": null,
+    "modelSlug": "sedan",
+    "bodyType": "sedan",
+    "year": null,
+    "img": "images/lexus/sedan.webp"
+  },
+  {
+    "brand": "lexus",
+    "model": null,
+    "modelSlug": "suv",
+    "bodyType": "suv",
+    "year": null,
+    "img": "images/lexus/suv.webp"
+  },
+  {
+    "brand": "lincoln",
+    "model": null,
+    "modelSlug": "sedan",
+    "bodyType": "sedan",
+    "year": null,
+    "img": "images/lincoln/sedan.webp"
+  },
+  {
+    "brand": "lincoln",
+    "model": null,
+    "modelSlug": "suv",
+    "bodyType": "suv",
+    "year": null,
+    "img": "images/lincoln/suv.webp"
+  },
+  {
+    "brand": "mazda",
+    "model": null,
+    "modelSlug": "convertible",
+    "bodyType": "convertible",
+    "year": null,
+    "img": "images/mazda/convertible.webp"
+  },
+  {
+    "brand": "mazda",
+    "model": null,
+    "modelSlug": "sedan",
+    "bodyType": "sedan",
+    "year": null,
+    "img": "images/mazda/sedan.webp"
+  },
+  {
+    "brand": "mazda",
+    "model": null,
+    "modelSlug": "suv",
+    "bodyType": "suv",
+    "year": null,
+    "img": "images/mazda/suv.webp"
+  },
+  {
+    "brand": "mercedes-benz",
+    "model": null,
+    "modelSlug": "convertible",
+    "bodyType": "convertible",
+    "year": null,
+    "img": "images/mercedes-benz/convertible.webp"
+  },
+  {
+    "brand": "mercedes-benz",
+    "model": null,
+    "modelSlug": "coupe",
+    "bodyType": "coupe",
+    "year": null,
+    "img": "images/mercedes-benz/coupe.webp"
+  },
+  {
+    "brand": "mercedes-benz",
+    "model": null,
+    "modelSlug": "sedan",
+    "bodyType": "sedan",
+    "year": null,
+    "img": "images/mercedes-benz/sedan.webp"
+  },
+  {
+    "brand": "mercedes-benz",
+    "model": null,
+    "modelSlug": "suv",
+    "bodyType": "suv",
+    "year": null,
+    "img": "images/mercedes-benz/suv.webp"
+  },
+  {
+    "brand": "mercedes-benz",
+    "model": null,
+    "modelSlug": "van",
+    "bodyType": "van",
+    "year": null,
+    "img": "images/mercedes-benz/van.webp"
+  },
+  {
+    "brand": "mg",
+    "model": null,
+    "modelSlug": "suv",
+    "bodyType": "suv",
+    "year": null,
+    "img": "images/mg/suv.webp"
+  },
+  {
+    "brand": "mitsubishi",
+    "model": null,
+    "modelSlug": "hatchback",
+    "bodyType": "hatchback",
+    "year": null,
+    "img": "images/mitsubishi/hatchback.webp"
+  },
+  {
+    "brand": "mitsubishi",
+    "model": null,
+    "modelSlug": "sedan",
+    "bodyType": "sedan",
+    "year": null,
+    "img": "images/mitsubishi/sedan.webp"
+  },
+  {
+    "brand": "mitsubishi",
+    "model": null,
+    "modelSlug": "suv",
+    "bodyType": "suv",
+    "year": null,
+    "img": "images/mitsubishi/suv.webp"
+  },
+  {
+    "brand": "nissan",
+    "model": null,
+    "modelSlug": "hatchback",
+    "bodyType": "hatchback",
+    "year": null,
+    "img": "images/nissan/hatchback.webp"
+  },
+  {
+    "brand": "nissan",
+    "model": null,
+    "modelSlug": "pickup",
+    "bodyType": "pickup",
+    "year": null,
+    "img": "images/nissan/pickup.webp"
+  },
+  {
+    "brand": "nissan",
+    "model": null,
+    "modelSlug": "sedan",
+    "bodyType": "sedan",
+    "year": null,
+    "img": "images/nissan/sedan.webp"
+  },
+  {
+    "brand": "nissan",
+    "model": null,
+    "modelSlug": "suv",
+    "bodyType": "suv",
+    "year": null,
+    "img": "images/nissan/suv.webp"
+  },
+  {
+    "brand": "peugeot",
+    "model": null,
+    "modelSlug": "hatchback",
+    "bodyType": "hatchback",
+    "year": null,
+    "img": "images/peugeot/hatchback.webp"
+  },
+  {
+    "brand": "peugeot",
+    "model": null,
+    "modelSlug": "sedan",
+    "bodyType": "sedan",
+    "year": null,
+    "img": "images/peugeot/sedan.webp"
+  },
+  {
+    "brand": "peugeot",
+    "model": null,
+    "modelSlug": "suv",
+    "bodyType": "suv",
+    "year": null,
+    "img": "images/peugeot/suv.webp"
+  },
+  {
+    "brand": "polestar",
+    "model": null,
+    "modelSlug": "sedan",
+    "bodyType": "sedan",
+    "year": null,
+    "img": "images/polestar/sedan.webp"
+  },
+  {
+    "brand": "polestar",
+    "model": null,
+    "modelSlug": "suv",
+    "bodyType": "suv",
+    "year": null,
+    "img": "images/polestar/suv.webp"
+  },
+  {
+    "brand": "porsche",
+    "model": null,
+    "modelSlug": "coupe",
+    "bodyType": "coupe",
+    "year": null,
+    "img": "images/porsche/coupe.webp"
+  },
+  {
+    "brand": "porsche",
+    "model": null,
+    "modelSlug": "suv",
+    "bodyType": "suv",
+    "year": null,
+    "img": "images/porsche/suv.webp"
+  },
+  {
+    "brand": "ram",
+    "model": null,
+    "modelSlug": "pickup",
+    "bodyType": "pickup",
+    "year": null,
+    "img": "images/ram/pickup.webp"
+  },
+  {
+    "brand": "ram",
+    "model": null,
+    "modelSlug": "van",
+    "bodyType": "van",
+    "year": null,
+    "img": "images/ram/van.webp"
+  },
+  {
+    "brand": "renault",
+    "model": null,
+    "modelSlug": "hatchback",
+    "bodyType": "hatchback",
+    "year": null,
+    "img": "images/renault/hatchback.webp"
+  },
+  {
+    "brand": "renault",
+    "model": null,
+    "modelSlug": "suv",
+    "bodyType": "suv",
+    "year": null,
+    "img": "images/renault/suv.webp"
+  },
+  {
+    "brand": "seat",
+    "model": null,
+    "modelSlug": "hatchback",
+    "bodyType": "hatchback",
+    "year": null,
+    "img": "images/seat/hatchback.webp"
+  },
+  {
+    "brand": "seat",
+    "model": null,
+    "modelSlug": "suv",
+    "bodyType": "suv",
+    "year": null,
+    "img": "images/seat/suv.webp"
+  },
+  {
+    "brand": "skoda",
+    "model": null,
+    "modelSlug": "hatchback",
+    "bodyType": "hatchback",
+    "year": null,
+    "img": "images/skoda/hatchback.webp"
+  },
+  {
+    "brand": "skoda",
+    "model": null,
+    "modelSlug": "suv",
+    "bodyType": "suv",
+    "year": null,
+    "img": "images/skoda/suv.webp"
+  },
+  {
+    "brand": "subaru",
+    "model": null,
+    "modelSlug": "suv",
+    "bodyType": "suv",
+    "year": null,
+    "img": "images/subaru/suv.webp"
+  },
+  {
+    "brand": "subaru",
+    "model": null,
+    "modelSlug": "wagon",
+    "bodyType": "wagon",
+    "year": null,
+    "img": "images/subaru/wagon.webp"
+  },
+  {
+    "brand": "suzuki",
+    "model": null,
+    "modelSlug": "hatchback",
+    "bodyType": "hatchback",
+    "year": null,
+    "img": "images/suzuki/hatchback.webp"
+  },
+  {
+    "brand": "suzuki",
+    "model": null,
+    "modelSlug": "suv",
+    "bodyType": "suv",
+    "year": null,
+    "img": "images/suzuki/suv.webp"
+  },
+  {
+    "brand": "tesla",
+    "model": null,
+    "modelSlug": "coupe",
+    "bodyType": "coupe",
+    "year": null,
+    "img": "images/tesla/coupe.webp"
+  },
+  {
+    "brand": "tesla",
+    "model": null,
+    "modelSlug": "pickup",
+    "bodyType": "pickup",
+    "year": null,
+    "img": "images/tesla/pickup.webp"
+  },
+  {
+    "brand": "tesla",
+    "model": null,
+    "modelSlug": "sedan",
+    "bodyType": "sedan",
+    "year": null,
+    "img": "images/tesla/sedan.webp"
+  },
+  {
+    "brand": "tesla",
+    "model": null,
+    "modelSlug": "suv",
+    "bodyType": "suv",
+    "year": null,
+    "img": "images/tesla/suv.webp"
+  },
+  {
+    "brand": "toyota",
+    "model": null,
+    "modelSlug": "hatchback",
+    "bodyType": "hatchback",
+    "year": null,
+    "img": "images/toyota/hatchback.webp"
+  },
+  {
+    "brand": "toyota",
+    "model": null,
+    "modelSlug": "minivan",
+    "bodyType": "minivan",
+    "year": null,
+    "img": "images/toyota/minivan.webp"
+  },
+  {
+    "brand": "toyota",
+    "model": null,
+    "modelSlug": "pickup",
+    "bodyType": "pickup",
+    "year": null,
+    "img": "images/toyota/pickup.webp"
+  },
+  {
+    "brand": "toyota",
+    "model": null,
+    "modelSlug": "sedan",
+    "bodyType": "sedan",
+    "year": null,
+    "img": "images/toyota/sedan.webp"
+  },
+  {
+    "brand": "toyota",
+    "model": null,
+    "modelSlug": "suv",
+    "bodyType": "suv",
+    "year": null,
+    "img": "images/toyota/suv.webp"
+  },
+  {
+    "brand": "volkswagen",
+    "model": null,
+    "modelSlug": "hatchback",
+    "bodyType": "hatchback",
+    "year": null,
+    "img": "images/volkswagen/hatchback.webp"
+  },
+  {
+    "brand": "volkswagen",
+    "model": null,
+    "modelSlug": "sedan",
+    "bodyType": "sedan",
+    "year": null,
+    "img": "images/volkswagen/sedan.webp"
+  },
+  {
+    "brand": "volkswagen",
+    "model": null,
+    "modelSlug": "suv",
+    "bodyType": "suv",
+    "year": null,
+    "img": "images/volkswagen/suv.webp"
+  },
+  {
+    "brand": "volkswagen",
+    "model": null,
+    "modelSlug": "van",
+    "bodyType": "van",
+    "year": null,
+    "img": "images/volkswagen/van.webp"
+  },
+  {
+    "brand": "volkswagen",
+    "model": null,
+    "modelSlug": "wagon",
+    "bodyType": "wagon",
+    "year": null,
+    "img": "images/volkswagen/wagon.webp"
+  },
+  {
+    "brand": "volvo",
+    "model": null,
+    "modelSlug": "sedan",
+    "bodyType": "sedan",
+    "year": null,
+    "img": "images/volvo/sedan.webp"
+  },
+  {
+    "brand": "volvo",
+    "model": null,
+    "modelSlug": "suv",
+    "bodyType": "suv",
+    "year": null,
+    "img": "images/volvo/suv.webp"
+  },
+  {
+    "brand": "volvo",
+    "model": null,
+    "modelSlug": "wagon",
+    "bodyType": "wagon",
+    "year": null,
+    "img": "images/volvo/wagon.webp"
+  },
+  {
+    "brand": "dodge",
+    "model": null,
+    "modelSlug": "minivan",
+    "bodyType": "minivan",
+    "year": null,
+    "img": "images/dodge/minivan.webp"
+  },
+  {
+    "brand": "dodge",
+    "model": null,
+    "modelSlug": "van",
+    "bodyType": "van",
+    "year": null,
+    "img": "images/dodge/van.webp"
+  },
+  {
+    "brand": "nissan",
+    "model": null,
+    "modelSlug": "minivan",
+    "bodyType": "minivan",
+    "year": null,
+    "img": "images/nissan/minivan.webp"
+  },
+  {
+    "brand": "nissan",
+    "model": null,
+    "modelSlug": "van",
+    "bodyType": "van",
+    "year": null,
+    "img": "images/nissan/van.webp"
+  },
+  {
+    "brand": "mazda",
+    "model": null,
+    "modelSlug": "minivan",
+    "bodyType": "minivan",
+    "year": null,
+    "img": "images/mazda/minivan.webp"
+  },
+  {
+    "brand": "mazda",
+    "model": null,
+    "modelSlug": "hatchback",
+    "bodyType": "hatchback",
+    "year": null,
+    "img": "images/mazda/hatchback.webp"
+  },
+  {
+    "brand": "ford",
+    "model": null,
+    "modelSlug": "minivan",
+    "bodyType": "minivan",
+    "year": null,
+    "img": "images/ford/minivan.webp"
+  },
+  {
+    "brand": "ford",
+    "model": null,
+    "modelSlug": "coupe",
+    "bodyType": "coupe",
+    "year": null,
+    "img": "images/ford/coupe.webp"
+  },
+  {
+    "brand": "ford",
+    "model": null,
+    "modelSlug": "convertible",
+    "bodyType": "convertible",
+    "year": null,
+    "img": "images/ford/convertible.webp"
+  },
+  {
+    "brand": "volkswagen",
+    "model": null,
+    "modelSlug": "minivan",
+    "bodyType": "minivan",
+    "year": null,
+    "img": "images/volkswagen/minivan.webp"
+  },
+  {
+    "brand": "volkswagen",
+    "model": null,
+    "modelSlug": "coupe",
+    "bodyType": "coupe",
+    "year": null,
+    "img": "images/volkswagen/coupe.webp"
+  },
+  {
+    "brand": "volkswagen",
+    "model": null,
+    "modelSlug": "convertible",
+    "bodyType": "convertible",
+    "year": null,
+    "img": "images/volkswagen/convertible.webp"
+  },
+  {
+    "brand": "chevrolet",
+    "model": null,
+    "modelSlug": "minivan",
+    "bodyType": "minivan",
+    "year": null,
+    "img": "images/chevrolet/minivan.webp"
+  },
+  {
+    "brand": "chevrolet",
+    "model": null,
+    "modelSlug": "van",
+    "bodyType": "van",
+    "year": null,
+    "img": "images/chevrolet/van.webp"
+  },
+  {
+    "brand": "chevrolet",
+    "model": null,
+    "modelSlug": "coupe",
+    "bodyType": "coupe",
+    "year": null,
+    "img": "images/chevrolet/coupe.webp"
+  },
+  {
+    "brand": "chevrolet",
+    "model": null,
+    "modelSlug": "convertible",
+    "bodyType": "convertible",
+    "year": null,
+    "img": "images/chevrolet/convertible.webp"
+  },
+  {
+    "brand": "cadillac",
+    "model": null,
+    "modelSlug": "coupe",
+    "bodyType": "coupe",
+    "year": null,
+    "img": "images/cadillac/coupe.webp"
+  },
+  {
+    "brand": "subaru",
+    "model": null,
+    "modelSlug": "sedan",
+    "bodyType": "sedan",
+    "year": null,
+    "img": "images/subaru/sedan.webp"
+  },
+  {
+    "brand": "subaru",
+    "model": null,
+    "modelSlug": "coupe",
+    "bodyType": "coupe",
+    "year": null,
+    "img": "images/subaru/coupe.webp"
+  },
+  {
+    "brand": "porsche",
+    "model": null,
+    "modelSlug": "sedan",
+    "bodyType": "sedan",
+    "year": null,
+    "img": "images/porsche/sedan.webp"
+  },
+  {
+    "brand": "porsche",
+    "model": null,
+    "modelSlug": "convertible",
+    "bodyType": "convertible",
+    "year": null,
+    "img": "images/porsche/convertible.webp"
+  },
+  {
+    "brand": "mitsubishi",
+    "model": null,
+    "modelSlug": "coupe",
+    "bodyType": "coupe",
+    "year": null,
+    "img": "images/mitsubishi/coupe.webp"
+  },
+  {
+    "brand": "hyundai",
+    "model": null,
+    "modelSlug": "coupe",
+    "bodyType": "coupe",
+    "year": null,
+    "img": "images/hyundai/coupe.webp"
+  },
+  {
+    "brand": "volvo",
+    "model": null,
+    "modelSlug": "coupe",
+    "bodyType": "coupe",
+    "year": null,
+    "img": "images/volvo/coupe.webp"
+  },
+  {
+    "brand": "volvo",
+    "model": null,
+    "modelSlug": "convertible",
+    "bodyType": "convertible",
+    "year": null,
+    "img": "images/volvo/convertible.webp"
+  },
+  {
+    "brand": "buick",
+    "model": null,
+    "modelSlug": "wagon",
+    "bodyType": "wagon",
+    "year": null,
+    "img": "images/buick/wagon.webp"
+  },
+  {
+    "brand": "mercedes-benz",
+    "model": null,
+    "modelSlug": "wagon",
+    "bodyType": "wagon",
+    "year": null,
+    "img": "images/mercedes-benz/wagon.webp"
+  },
+  {
+    "brand": "audi",
+    "model": null,
+    "modelSlug": "wagon",
+    "bodyType": "wagon",
+    "year": null,
+    "img": "images/audi/wagon.webp"
+  },
+  {
+    "brand": "bmw",
+    "model": null,
+    "modelSlug": "wagon",
+    "bodyType": "wagon",
+    "year": null,
+    "img": "images/bmw/wagon.webp"
+  }
+]

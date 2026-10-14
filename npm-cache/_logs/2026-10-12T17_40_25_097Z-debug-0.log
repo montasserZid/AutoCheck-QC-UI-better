@@ -1,0 +1,17 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.8.2
+2 info using node@v20.20.2
+3 silly config load:file:C:\Program Files\nodejs\node_modules\npm\npmrc
+4 silly config load:file:C:\Users\novitek\Desktop\auto-new try\AutoCheck-QC-Cloudways\.npmrc
+5 silly config load:file:C:\Users\novitek\Desktop\auto-new try\AutoCheck-QC-Cloudways\npm\etc\npmrc
+6 verbose title npm run dev
+7 verbose argv "run" "dev"
+8 verbose logfile logs-max:10 dir:C:\Users\novitek\Desktop\auto-new try\AutoCheck-QC-Cloudways\npm-cache\_logs\2026-10-12T17_40_25_097Z-
+9 verbose logfile C:\Users\novitek\Desktop\auto-new try\AutoCheck-QC-Cloudways\npm-cache\_logs\2026-10-12T17_40_25_097Z-debug-0.log
+10 silly logfile done cleaning log files
+11 verbose cwd C:\Users\novitek\Desktop\auto-new try\AutoCheck-QC-Cloudways
+12 verbose os Windows_NT 10.0.22631
+13 verbose node v20.20.2
+14 verbose npm  v10.8.2
+15 verbose exit 1
+16 verbose code 1
